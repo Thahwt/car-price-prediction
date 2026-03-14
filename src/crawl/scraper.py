@@ -9,9 +9,9 @@ from bs4 import BeautifulSoup
 from utils import * 
 
 save_path = 'D:/car-price-prediction/data'
-page = 'https://bonbanh.com/oto'
-page_id = 1 
 
+page_id = 143
+page = f'https://bonbanh.com/oto/page,{page_id}'
 
 # Danh sách các User-Agent phổ biến để luân phiên thay đổi
 USER_AGENTS = [
@@ -43,7 +43,7 @@ while page is not None:
     
     
     time.sleep(1)
-    
+
     data = crawl_page(page_source, page_id)
     
     if page_id == 1: 
