@@ -3,7 +3,7 @@ import time
 import numpy as np
 import os
 import requests 
-import random  # Thêm cái này để random thời gian nghỉ
+import random 
 from tqdm import tqdm
 from bs4 import BeautifulSoup 
 from utils import * 
@@ -13,7 +13,7 @@ page = 'https://bonbanh.com/oto'
 page_id = 1 
 
 
-# Danh sách các User-Agent phổ biến để luân phiên thay đổi
+# Định nghĩa các USER_AGENTS để tránh bị chặn bởi server
 USER_AGENTS = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
@@ -22,7 +22,7 @@ USER_AGENTS = [
 ]
 
 while page is not None: 
-    # RANDOM HEADER FOR REQUEST
+    # Chọn ngẫu nhiên 1 header để truy cập
     headers = {
         'User-Agent': random.choice(USER_AGENTS),
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
@@ -33,7 +33,7 @@ while page is not None:
     
     response = requests.get(page, headers=headers, timeout=10)
     
-    # RETRY IF BEING BANNED
+    # Thử lại nếu bị chặn
     if response.status_code != 200:
         print(f"Status code: {response.status_code}. Pause for ip being banned...")
         time.sleep(60) 
