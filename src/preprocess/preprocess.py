@@ -1,3 +1,5 @@
+import json
+
 def process_prices(price : str) -> int:
     """
     Hàm dùng để biển đổi giá trị price từ string -> int
@@ -24,7 +26,11 @@ def map_location(location : str) -> str :
     """
     Hàm này dùng để map lại tỉnh thành sau sáp nhập
     """
-    pass
+    JSON_PATH = "D:/car-price-prediction/data/new_provinces_map.json"
+    with open (JSON_PATH, 'r', encoding = 'utf-8') as f:
+        province_map = json.load(f)
+
+    return province_map[location]
 
 def process_seats(seat : str) -> int : 
     """
@@ -76,13 +82,6 @@ def process_engine(engine) :
     return extracted_engine 
 
 
-def process_status(status : str) -> str : 
-    status = status.lower() 
-    if status == "xe đã dùng" : 
-        return "used"
-    elif status == "xe mới" : 
-        return "new"
-    return None 
 
 def process_color(color: str):
     if color is None:
