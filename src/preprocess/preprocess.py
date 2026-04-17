@@ -64,6 +64,14 @@ def process_transmission(transmission : str) -> str :
         return "manual"
     return None
 
+def process_status(status : str) -> str : 
+    status = status.lower() 
+    if status == "xe đã dùng" : 
+        return "used"
+    elif status == "xe mới" : 
+        return "new"
+    return None 
+
 def process_engine(engine) :
     """
     Hàm này để trích xuất thông tin động cơ thành loại nhiên liệu và dung tích
