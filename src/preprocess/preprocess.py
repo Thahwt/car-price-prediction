@@ -76,6 +76,13 @@ def process_engine(engine) :
     return extracted_engine 
 
 
+def process_status(status : str) -> str : 
+    status = status.lower() 
+    if status == "xe đã dùng" : 
+        return "used"
+    elif status == "xe mới" : 
+        return "new"
+    return None 
 
 def process_color(color: str):
     if color is None:
