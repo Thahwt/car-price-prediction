@@ -1,4 +1,5 @@
 import json
+import pandas as pd
 
 def process_prices(price : str) -> int:
     """
@@ -53,6 +54,16 @@ def process_origin(origin : str) -> str :
     elif origin.lower() == "nhập khẩu" :
         return "import"
     return None
+
+def process_odo(odo: str) -> int:
+    """
+    Hàm này chuyển số km về float
+    """
+    if not pd.isna(odo) : 
+        odo = odo.split()[0]
+        odo = odo.replace(',', '')
+        return int(odo)
+    return 0
 
 def process_transmission(transmission : str) -> str :
     """
