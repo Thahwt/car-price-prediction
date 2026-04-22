@@ -26,9 +26,6 @@ def get_product_info(page_source):
     parser = BeautifulSoup(page_source, 'html.parser')
     gray_box = parser.find('div', class_='gray-box')
     if gray_box is None:
-        print("⚠️ Cảnh báo: Không tìm thấy khung chứa danh sách xe (gray-box).")
-        print("-> Có thể bạn đã bị chặn IP (dính Captcha) hoặc trang web bị lỗi.")
-        # Trả về 4 list rỗng để hàm bên ngoài không bị lỗi Unpack
         return [], [], [], []
     div_tags_1 = gray_box.find_all('li', class_='car-item row1')
     div_tags_2 = gray_box.find_all('li', class_='car-item row2')
@@ -67,11 +64,14 @@ def extract_data(page_source):
     breadcum = parser.find('div', class_='breadcrum')
 
     # 1. DỌN SẠCH BRAND VÀ MODEL
-    raw_brand = breadcum.find_all('span', attrs={"itemprop": "itemListElement"})[2].find('a').text
-    brand = raw_brand.replace('Loading...', '').replace('\n', '').strip()
+    if breadcum:
+        spans = breadcum.find_all('span', attrs={"itemprop": "itemListElement"})
 
-    raw_model = breadcum.find_all('span', attrs={"itemprop": "itemListElement"})[3].find('a').text
-    model = raw_model.replace('Loading...', '').replace('\n', '').strip()
+        if len(spans) > 2 and spans[2].find('a'):
+            brand = spans[2].find('a').text.replace('Loading...', '').replace('\n', '').strip()
+
+        if len(spans) > 3 and spans[3].find('a'):
+            model = spans[3].find('a').text.replace('Loading...', '').replace('\n', '').strip()
 
     car_details, description = parser.find_all('div', class_='box_car_detail')
     configuration = car_details.find_all('div', attrs={'id': 'mail_parent'})

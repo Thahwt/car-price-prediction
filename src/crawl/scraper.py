@@ -10,7 +10,7 @@ from utils import *
 
 save_path = 'D:/car-price-prediction/data'
 
-page_id = 143
+page_id = 1
 page = f'https://bonbanh.com/oto/page,{page_id}'
 
 # Danh sách các User-Agent phổ biến để luân phiên thay đổi
