@@ -94,7 +94,10 @@ def process_engine(engine) :
             return "diesel" 
         elif fuel.lower() == "điện" :
             return "electric"
+        elif fuel.lower() == "hybrid" : 
+            return "hybrid"
         return None
+    
     extracted_engine = engine.str.lower().str.strip().str.replace(" l", "").str.split(expand=True)
     extracted_engine.columns = ["fuel", "volumn"]
     extracted_engine["fuel"] = extracted_engine["fuel"].map(process_fuel)
