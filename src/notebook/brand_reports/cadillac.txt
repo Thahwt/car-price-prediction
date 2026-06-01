@@ -1,0 +1,7 @@
+   brand        model                                 name  count
+cadillac     escalade             cadillac escalade 6.2 v8      1
+cadillac     escalade       cadillac escalade esv platinum      9
+cadillac     escalade        cadillac escalade esv premium     10
+cadillac     escalade cadillac escalade premium luxury esv      2
+cadillac escalade ext         cadillac escalade ext 6.0 at      1
+cadillac          sts                  cadillac sts 3.6 at      2

@@ -1,0 +1,5 @@
+brand  model                          name  count
+skoda  karoq   skoda karoq ambition 1.4 at      1
+skoda kodiaq     skoda kodiaq style 2.0 at      1
+skoda kushaq skoda kushaq style 1.0 tsi at      1
+skoda slavia           skoda slavia active      1

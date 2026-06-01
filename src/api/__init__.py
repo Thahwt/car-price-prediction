@@ -1,0 +1,1 @@
+from .openstreetmap import GeoCoder

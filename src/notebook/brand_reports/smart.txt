@@ -1,0 +1,4 @@
+brand    model                  name  count
+smart   fortwo   smart fortwo 0.7 at      1
+smart   fortwo   smart fortwo 1.0 at      5
+smart roadster smart roadster 0.7 at      1

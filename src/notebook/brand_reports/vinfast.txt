@@ -1,0 +1,44 @@
+  brand       model                              name  count
+vinfast       fadil              vinfast fadil 1.4 at    108
+vinfast       fadil         vinfast fadil 1.4 at plus     62
+vinfast       fadil      vinfast fadil 1.4 at premium     15
+vinfast       fadil     vinfast fadil advanced 1.4 at      6
+vinfast       fadil         vinfast fadil base 1.4 at     50
+vinfast       fadil      vinfast fadil premium 1.4 at      1
+vinfast herio green            vinfast herio green at      1
+vinfast  limo green             vinfast limo green at     14
+vinfast   lux a 2.0        vinfast lux a 2.0 advanced     11
+vinfast   lux a 2.0            vinfast lux a 2.0 base     39
+vinfast   lux a 2.0     vinfast lux a 2.0 base 2.0 at     34
+vinfast   lux a 2.0     vinfast lux a 2.0 plus 2.0 at     15
+vinfast   lux a 2.0         vinfast lux a 2.0 premium      6
+vinfast   lux a 2.0  vinfast lux a 2.0 premium 2.0 at     24
+vinfast  lux sa 2.0       vinfast lux sa 2.0 advanced      6
+vinfast  lux sa 2.0           vinfast lux sa 2.0 base      7
+vinfast  lux sa 2.0    vinfast lux sa 2.0 base 2.0 at     45
+vinfast  lux sa 2.0    vinfast lux sa 2.0 plus 2.0 at     25
+vinfast  lux sa 2.0        vinfast lux sa 2.0 premium      2
+vinfast  lux sa 2.0 vinfast lux sa 2.0 premium 2.0 at     49
+vinfast minio green            vinfast minio green at      2
+vinfast   president          vinfast president 6.2 v8     13
+vinfast      vf e34                 vinfast vf e34 at     18
+vinfast    vf mpv 7               vinfast vf mpv 7 at      1
+vinfast         vf3                   vinfast vf3 eco      1
+vinfast         vf3                  vinfast vf3 plus    134
+vinfast         vf5                  vinfast vf5 plus     92
+vinfast         vf5                     vinfast vf5 s      2
+vinfast         vf6                   vinfast vf6 eco      8
+vinfast         vf6                  vinfast vf6 plus     35
+vinfast         vf6                     vinfast vf6 s      4
+vinfast         vf7                   vinfast vf7 eco     12
+vinfast         vf7                  vinfast vf7 plus      5
+vinfast         vf7                     vinfast vf7 s      2
+vinfast         vf8                   vinfast vf8 eco    130
+vinfast         vf8              vinfast vf8 lux plus      1
+vinfast         vf8                  vinfast vf8 plus    170
+vinfast         vf8                     vinfast vf8 s     17
+vinfast         vf9                   vinfast vf9 eco      3
+vinfast         vf9            vinfast vf9 eco 6s sdi      1
+vinfast         vf9               vinfast vf9 plus 6s      9
+vinfast         vf9           vinfast vf9 plus 6s sdi      3
+vinfast         vf9               vinfast vf9 plus 7s     23

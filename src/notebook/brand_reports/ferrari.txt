@@ -1,0 +1,3 @@
+  brand model              name  count
+ferrari   296   ferrari 296 gtb      1
+ferrari    f8 ferrari f8 spyder      1

@@ -1,0 +1,31 @@
+ brand             model                              name  count
+suzuki             carry                  suzuki carry pro     17
+suzuki           celerio             suzuki celerio 1.0 at     11
+suzuki           celerio             suzuki celerio 1.0 mt      2
+suzuki              ciaz                suzuki ciaz 1.4 at     10
+suzuki            ertiga              suzuki ertiga 1.4 at      4
+suzuki            ertiga           suzuki ertiga gl 1.5 mt      2
+suzuki            ertiga          suzuki ertiga glx 1.5 at      8
+suzuki            ertiga       suzuki ertiga hybrid 1.5 at      6
+suzuki            ertiga suzuki ertiga hybrid sport 1.5 at      1
+suzuki            ertiga      suzuki ertiga limited 1.5 at      4
+suzuki            ertiga        suzuki ertiga sport 1.5 at      5
+suzuki             fronx             suzuki fronx glx plus      2
+suzuki      grand vitara        suzuki grand vitara 2.0 at      6
+suzuki             jimny              suzuki jimny 1.5l at     12
+suzuki super carry truck   suzuki super carry truck 1.0 mt      8
+suzuki   super carry van  suzuki super carry van blind van     24
+suzuki   super carry van suzuki super carry van window van      1
+suzuki             swift               suzuki swift 1.2 at      4
+suzuki             swift               suzuki swift 1.4 at     13
+suzuki             swift               suzuki swift 1.5 at      1
+suzuki             swift            suzuki swift gl 1.2 at      3
+suzuki             swift           suzuki swift glx 1.2 at     51
+suzuki             swift                   suzuki swift rs      1
+suzuki             swift              suzuki swift special      3
+suzuki            vitara              suzuki vitara 1.6 at      7
+suzuki            vitara                 suzuki vitara jlx      1
+suzuki          wagon r+            suzuki wagon r+ 1.0 mt      1
+suzuki               xl7                 suzuki xl7 1.5 at     58
+suzuki               xl7          suzuki xl7 hybrid 1.5 at      7
+suzuki               xl7   suzuki xl7 sport limited 1.5 at      5

@@ -1,0 +1,172 @@
+brand    model                                    name  count
+  kia   carens            kia carens 1.4t signature 7s      6
+  kia   carens                 kia carens 1.5d premium      2
+  kia   carens            kia carens 1.5d signature 7s      2
+  kia   carens                     kia carens 1.5g ivt      5
+  kia   carens                  kia carens 1.5g luxury     24
+  kia   carens                       kia carens 2.0 at      2
+  kia   carens                  kia carens crdi 2.0 at      2
+  kia   carens                    kia carens ex 2.0 mt      2
+  kia   carens                         kia carens exmt      6
+  kia   carens                    kia carens lx 1.6 mt      2
+  kia   carens                  kia carens s sx 2.0 at      3
+  kia   carens                    kia carens sx 2.0 at      8
+  kia   carens                         kia carens sxat      5
+  kia   carens                         kia carens sxmt      3
+  kia carnival                  kia carnival gs 2.5 at      6
+  kia carnival                kia carnival luxury 2.2d     21
+  kia carnival               kia carnival premium 2.2d     28
+  kia carnival            kia carnival premium 2.2d 7s     13
+  kia carnival            kia carnival premium 2.2d 8s     15
+  kia carnival                 kia carnival royal 2.2d     16
+  kia carnival kia carnival signature 1.6 turbo hev 7s      4
+  kia carnival             kia carnival signature 2.2d    259
+  kia carnival             kia carnival signature 3.5g     13
+  kia   cerato                       kia cerato 1.6 at     58
+  kia   cerato                kia cerato 1.6 at deluxe      7
+  kia   cerato                kia cerato 1.6 at luxury     58
+  kia   cerato                       kia cerato 1.6 mt     32
+  kia   cerato                       kia cerato 2.0 at     11
+  kia   cerato               kia cerato 2.0 at premium     48
+  kia   cerato                  kia cerato koup 1.6 at      1
+  kia   cerato                  kia cerato koup 2.0 at      8
+  kia    forte                        kia forte 1.6 mt      1
+  kia    forte                     kia forte ex 1.6 mt      3
+  kia    forte                    kia forte gdi 1.6 at      2
+  kia    forte                   kia forte koup 1.6 at      2
+  kia    forte                   kia forte koup 2.0 at      1
+  kia    forte                      kia forte s 1.6 at      2
+  kia    forte                     kia forte si 1.6 at      2
+  kia    forte                    kia forte sli 1.6 at      5
+  kia    forte                     kia forte sx 1.6 at     13
+  kia    forte                     kia forte sx 1.6 mt      3
+  kia frontier            kia frontier k140 closed box      1
+  kia frontier            kia frontier k165 closed box      5
+  kia frontier            kia frontier k200 closed box      2
+  kia frontier            kia frontier k250 canvas box      1
+  kia frontier            kia frontier k250 closed box      1
+  kia       k3                           kia k3 1.6 at     18
+  kia       k3                           kia k3 1.6 mt      3
+  kia       k3                           kia k3 2.0 at     15
+  kia       k3                    kia k3 deluxe 1.6 mt      1
+  kia       k3                  kia k3 gt 1.6 at turbo      2
+  kia       k3                    kia k3 luxury 1.6 at     26
+  kia       k3                   kia k3 premium 1.6 at     40
+  kia       k3                   kia k3 premium 2.0 at     25
+  kia   k3000s                   kia k3000s canvas box      2
+  kia   k3000s                   kia k3000s closed box      2
+  kia       k5                   kia k5 gt line 2.5 at      8
+  kia       k5                    kia k5 luxury 2.0 at      1
+  kia       k5                   kia k5 premium 2.0 at     21
+  kia  morning                      kia morning 1.0 at      9
+  kia  morning                kia morning 1.0 at sport      8
+  kia  morning                      kia morning 1.0 mt      5
+  kia  morning                kia morning 1.0 mt sport      2
+  kia  morning                     kia morning 1.25 at      2
+  kia  morning                     kia morning 1.25 mt      4
+  kia  morning                          kia morning at     12
+  kia  morning                      kia morning deluxe     23
+  kia  morning                          kia morning ex     36
+  kia  morning                   kia morning ex 1.1 mt      9
+  kia  morning         kia morning ex 1.1 mt sportpack      3
+  kia  morning                     kia morning gt line     11
+  kia  morning                      kia morning luxury     26
+  kia  morning                          kia morning lx      8
+  kia  morning                   kia morning lx 1.0 at      9
+  kia  morning                   kia morning lx 1.0 mt      2
+  kia  morning                   kia morning lx 1.1 mt      3
+  kia  morning                          kia morning mt     23
+  kia  morning                  kia morning premium at      1
+  kia  morning                        kia morning s at      9
+  kia  morning                        kia morning s mt      1
+  kia  morning                       kia morning si at     72
+  kia  morning                       kia morning si mt     21
+  kia  morning                  kia morning slx 1.0 at     21
+  kia  morning                  kia morning slx 1.0 mt      3
+  kia  morning                   kia morning sx 1.1 at      7
+  kia  morning             kia morning sx 1.1 at sport      9
+  kia  morning         kia morning sx 1.1 at sportpack      2
+  kia  morning             kia morning sx 1.1 mt sport      6
+  kia  morning                  kia morning van 1.0 at     63
+  kia  morning                  kia morning van 1.0 mt      3
+  kia  morning                      kia morning x line     11
+  kia   opirus                       kia opirus 3.5 at      1
+  kia   optima                       kia optima 2.0 at      9
+  kia   optima                kia optima 2.0 at luxury      1
+  kia   optima                  kia optima 2.4 gt line      3
+  kia  picanto                     kia picanto 1.25 at      6
+  kia  picanto                   kia picanto s 1.25 at      3
+  kia    pride                           kia pride cd5      3
+  kia   quoris                       kia quoris 3.8 at      1
+  kia      rio                          kia rio 1.3 mt      1
+  kia      rio                          kia rio 1.4 at     33
+  kia      rio                          kia rio 1.4 mt      6
+  kia      rio                       kia rio ex 1.4 mt      1
+  kia    rondo                           kia rondo dat      3
+  kia    rondo                           kia rondo gat     11
+  kia    rondo                    kia rondo gat deluxe      3
+  kia    rondo                          kia rondo gath      4
+  kia    rondo                           kia rondo gmt      6
+  kia    rondo                    kia rondo gmt deluxe      1
+  kia   sedona               kia sedona 2.2 dat deluxe     11
+  kia   sedona               kia sedona 2.2 dat luxury     60
+  kia   sedona                     kia sedona 2.2l dat      4
+  kia   sedona                    kia sedona 2.2l dath     48
+  kia   sedona              kia sedona 3.3 gat premium      6
+  kia   sedona                    kia sedona 3.3l gath     10
+  kia   sedona                       kia sedona luxury      1
+  kia   sedona                   kia sedona platinum d     11
+  kia   sedona                   kia sedona platinum g      1
+  kia   seltos                       kia seltos 1.5 at      7
+  kia   seltos                kia seltos deluxe 1.4 at     14
+  kia   seltos                kia seltos deluxe 1.5 at      2
+  kia   seltos         kia seltos gt line 1.5 at turbo      1
+  kia   seltos                kia seltos luxury 1.4 at     36
+  kia   seltos                kia seltos luxury 1.5 at      7
+  kia   seltos                kia seltos luxury 1.6 at      3
+  kia   seltos               kia seltos premium 1.4 at     62
+  kia   seltos               kia seltos premium 1.5 at     20
+  kia   seltos               kia seltos premium 1.6 at     20
+  kia   seltos                kia seltos x line 1.4 at      2
+  kia   soluto                kia soluto 1.4 at deluxe     16
+  kia   soluto                kia soluto 1.4 at luxury     10
+  kia   soluto                       kia soluto 1.4 mt      3
+  kia   soluto                kia soluto 1.4 mt deluxe     15
+  kia    sonet                 kia sonet deluxe 1.5 at      5
+  kia    sonet                 kia sonet deluxe 1.5 mt      1
+  kia    sonet                 kia sonet luxury 1.5 at     52
+  kia    sonet                kia sonet premium 1.5 at     71
+  kia  sorento             kia sorento 2.2 dat premium      8
+  kia  sorento              kia sorento 2.4 gat deluxe      5
+  kia  sorento             kia sorento 2.4 gat premium      3
+  kia  sorento                 kia sorento 2.5 at crdi      1
+  kia  sorento                        kia sorento dath     29
+  kia  sorento                         kia sorento gat      5
+  kia  sorento                    kia sorento gat 2.4l     12
+  kia  sorento                        kia sorento gath     15
+  kia  sorento                    kia sorento gmt 2.4l      1
+  kia  sorento               kia sorento luxury 2.2 at      6
+  kia  sorento              kia sorento premium 2.2 at      2
+  kia  sorento             kia sorento premium 2.2d at      8
+  kia  sorento              kia sorento premium 2.5 at      2
+  kia  sorento     kia sorento signature 1.6 at hybrid      3
+  kia  sorento            kia sorento signature 2.2 at     28
+  kia  sorento         kia sorento signature 2.2 at 6s      8
+  kia  sorento         kia sorento signature 2.2 at 7s     15
+  kia  sorento           kia sorento signature 2.2d at      1
+  kia  sorento            kia sorento signature 2.5 at     13
+  kia  sorento         kia sorento signature 2.5 at 6s      2
+  kia  sorento         kia sorento signature 2.5 at 7s      1
+  kia     soul                      kia soul 4u 1.6 at      3
+  kia  spectra                      kia spectra 1.6 mt      7
+  kia sportage                     kia sportage 2.0 at      3
+  kia sportage        kia sportage limited 2.0 at crdi      1
+  kia sportage                kia sportage luxury 2.0g      1
+  kia sportage               kia sportage premium 2.0g     11
+  kia sportage             kia sportage signature 1.6t     14
+  kia sportage             kia sportage signature 2.0d      4
+  kia sportage             kia sportage signature 2.0g     11
+  kia sportage      kia sportage signature x line 1.6t     12
+  kia sportage      kia sportage signature x line 2.0d      4
+  kia sportage      kia sportage signature x line 2.0g      8
+  kia sportage                 kia sportage txl 2.0 at      1

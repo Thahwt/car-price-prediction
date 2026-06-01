@@ -1,0 +1,10 @@
+   brand        model                                       name  count
+maserati       ghibli                     maserati ghibli 3.0 v6      3
+maserati  granturismo  maserati granturismo mc sport line 4.7 at      1
+maserati      grecale                        maserati grecale gt      1
+maserati      levante                    maserati levante 3.0 v6      4
+maserati      levante        maserati levante s gransport 3.0 v6      2
+maserati      levante             maserati levante trofeo 3.8 v8      2
+maserati         mc20                    maserati mc20 3.0 v6 at      1
+maserati quattroporte               maserati quattroporte 3.0 v6      5
+maserati quattroporte maserati quattroporte gts granlusso 3.8 v8      2

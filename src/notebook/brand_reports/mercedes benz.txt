@@ -1,0 +1,145 @@
+        brand     model                                             name  count
+mercedes benz   a class                               mercedes benz a200      2
+mercedes benz   a class                     mercedes benz a250 sport amg      3
+mercedes benz   a class                     mercedes benz a35 amg 4matic      4
+mercedes benz    amg gt                   mercedes benz amg gt 53 4matic      4
+mercedes benz   b class                                mercedes benz 150      1
+mercedes benz   c class                               mercedes benz c180     17
+mercedes benz   c class                           mercedes benz c180 amg      9
+mercedes benz   c class                         mercedes benz c180 sport      1
+mercedes benz   c class                               mercedes benz c200    110
+mercedes benz   c class                    mercedes benz c200 avantgarde     46
+mercedes benz   c class               mercedes benz c200 avantgarde plus     59
+mercedes benz   c class                           mercedes benz c200 cgi      3
+mercedes benz   c class                      mercedes benz c200 elegance      1
+mercedes benz   c class                     mercedes benz c200 exclusive     95
+mercedes benz   c class                    mercedes benz c200 kompressor      1
+mercedes benz   c class                    mercedes benz c230 avantgarde      6
+mercedes benz   c class                    mercedes benz c240 avantgarde      1
+mercedes benz   c class                               mercedes benz c250     10
+mercedes benz   c class                           mercedes benz c250 amg      7
+mercedes benz   c class                           mercedes benz c250 cgi      2
+mercedes benz   c class                     mercedes benz c250 exclusive     44
+mercedes benz   c class                               mercedes benz c300      2
+mercedes benz   c class                           mercedes benz c300 amg    166
+mercedes benz   c class                         mercedes benz c300 coupe      1
+mercedes benz   c class                     mercedes benz c43 amg 4matic     32
+mercedes benz cla class                            mercedes benz cla 200     10
+mercedes benz cla class                     mercedes benz cla 250 4matic      8
+mercedes benz cla class                  mercedes benz cla 45 amg 4matic      5
+mercedes benz cls class                            mercedes benz cls 300      3
+mercedes benz cls class                            mercedes benz cls 350      1
+mercedes benz cls class                        mercedes benz cls 350 amg      1
+mercedes benz   e class                               mercedes benz e180     33
+mercedes benz   e class                               mercedes benz e200     44
+mercedes benz   e class                    mercedes benz e200 avantgarde      4
+mercedes benz   e class                       mercedes benz e200 edition      3
+mercedes benz   e class                     mercedes benz e200 exclusive     87
+mercedes benz   e class                         mercedes benz e200 sport     10
+mercedes benz   e class                               mercedes benz e240      3
+mercedes benz   e class                            mercedes benz e240 at      1
+mercedes benz   e class                               mercedes benz e250     39
+mercedes benz   e class                           mercedes benz e250 amg     19
+mercedes benz   e class                               mercedes benz e280      6
+mercedes benz   e class                               mercedes benz e300      6
+mercedes benz   e class                           mercedes benz e300 amg     73
+mercedes benz   e class                         mercedes benz e350 coupe      2
+mercedes benz   e class                               mercedes benz e400      1
+mercedes benz   e class                 mercedes benz e400 amg cabriolet      4
+mercedes benz       eqb                            mercedes benz eqb 250      2
+mercedes benz       eqb                           mercedes benz eqb 250+      3
+mercedes benz       eqe                     mercedes benz eqe 500 4matic      3
+mercedes benz       eqs                       mercedes benz eqs 450 plus      6
+mercedes benz       eqs                     mercedes benz eqs 500 4matic      4
+mercedes benz       eqs                 mercedes benz eqs 500 4matic suv      1
+mercedes benz       eqs                     mercedes benz eqs 580 4matic      7
+mercedes benz   g class                            mercedes benz g63 amg     69
+mercedes benz   g class                  mercedes benz g63 amg edition 1      3
+mercedes benz        gl                  mercedes benz gl 320 cdi 4matic      2
+mercedes benz        gl              mercedes benz gl 350 bluetec 4matic      2
+mercedes benz        gl                  mercedes benz gl 350 cdi 4matic      4
+mercedes benz        gl                      mercedes benz gl 400 4matic      5
+mercedes benz        gl                      mercedes benz gl 450 4matic      8
+mercedes benz        gl                      mercedes benz gl 500 4matic      3
+mercedes benz        gl                      mercedes benz gl 550 4matic      4
+mercedes benz        gl                  mercedes benz gl 550 amg 4matic      1
+mercedes benz gla class                            mercedes benz gla 200      5
+mercedes benz gla class                     mercedes benz gla 250 4matic      3
+mercedes benz gla class                  mercedes benz gla 45 amg 4matic      3
+mercedes benz gla class                mercedes benz gla 45 s amg 4matic      1
+mercedes benz       glb                        mercedes benz glb 200 amg      5
+mercedes benz       glb                      mercedes benz glb 35 4matic     12
+mercedes benz       glc                            mercedes benz glc 200     94
+mercedes benz       glc                     mercedes benz glc 200 4matic    143
+mercedes benz       glc                     mercedes benz glc 250 4matic     59
+mercedes benz       glc                     mercedes benz glc 300 4matic    324
+mercedes benz       glc               mercedes benz glc 300 4matic coupe     14
+mercedes benz       glc               mercedes benz glc 300 coupe 4matic      8
+mercedes benz gle class                     mercedes benz gle 400 4matic      7
+mercedes benz gle class               mercedes benz gle 400 4matic coupe     13
+mercedes benz gle class           mercedes benz gle 400 4matic exclusive      1
+mercedes benz gle class            mercedes benz gle 43 amg 4matic coupe      6
+mercedes benz gle class                     mercedes benz gle 450 4matic     16
+mercedes benz gle class               mercedes benz gle 450 4matic coupe      3
+mercedes benz gle class           mercedes benz gle 53 4matic+ coupe amg      2
+mercedes benz glk class                         mercedes benz 250 4matic      3
+mercedes benz glk class                         mercedes benz 300 4matic     10
+mercedes benz glk class                  mercedes benz glk220 cdi 4matic      7
+mercedes benz glk class                      mercedes benz glk250 4matic      5
+mercedes benz glk class                  mercedes benz glk250 amg 4matic      2
+mercedes benz glk class                      mercedes benz glk280 4matic      5
+mercedes benz glk class                      mercedes benz glk300 4matic      9
+mercedes benz glk class                  mercedes benz glk300 amg 4matic      1
+mercedes benz       gls                    mercedes benz gls 350d 4matic      7
+mercedes benz       gls                     mercedes benz gls 400 4matic      7
+mercedes benz       gls                     mercedes benz gls 450 4matic     94
+mercedes benz       gls             mercedes benz gls 480 4matic maybach     28
+mercedes benz       gls                     mercedes benz gls 580 4matic      5
+mercedes benz       gls             mercedes benz gls 600 4matic maybach     18
+mercedes benz       gls                  mercedes benz gls 63 amg 4matic      4
+mercedes benz   maybach                       mercedes benz maybach s400      1
+mercedes benz        mb                             mercedes benz mb 100      1
+mercedes benz  ml class                              mercedes benz ml320      2
+mercedes benz  ml class                              mercedes benz ml350      3
+mercedes benz  ml class                       mercedes benz ml350 4matic      1
+mercedes benz  ml class                       mercedes benz ml400 4matic      1
+mercedes benz  ml class                   mercedes benz ml400 amg 4matic      1
+mercedes benz   r class                               mercedes benz r300      1
+mercedes benz   r class                        mercedes benz r350 4matic      1
+mercedes benz   s class                              mercedes benz s300l      4
+mercedes benz   s class                               mercedes benz s320      1
+mercedes benz   s class                               mercedes benz s350      6
+mercedes benz   s class                  mercedes benz s400 4matic coupe      3
+mercedes benz   s class                       mercedes benz s400 maybach      5
+mercedes benz   s class                              mercedes benz s400l     75
+mercedes benz   s class                               mercedes benz s450     24
+mercedes benz   s class                        mercedes benz s450 4matic     25
+mercedes benz   s class                 mercedes benz s450 4matic luxury     47
+mercedes benz   s class                mercedes benz s450 4matic maybach     93
+mercedes benz   s class                        mercedes benz s450 luxury     19
+mercedes benz   s class                              mercedes benz s450l     92
+mercedes benz   s class                       mercedes benz s450l luxury     37
+mercedes benz   s class                               mercedes benz s500      7
+mercedes benz   s class                       mercedes benz s500 maybach      1
+mercedes benz   s class                              mercedes benz s500l     19
+mercedes benz   s class                               mercedes benz s550      3
+mercedes benz   s class                       mercedes benz s580e 4matic      1
+mercedes benz   s class                               mercedes benz s600      2
+mercedes benz   s class                       mercedes benz s600 maybach      6
+mercedes benz   s class                            mercedes benz s63 amg      6
+mercedes benz  sl class                          mercedes benz sl 43 amg      4
+mercedes benz  sprinter              mercedes benz sprinter 311 cdi 2.2l      2
+mercedes benz  sprinter                   mercedes benz sprinter 313 esp      7
+mercedes benz  sprinter           mercedes benz sprinter midwest 3.0d at      1
+mercedes benz  sprinter mercedes benz sprinter renegade villagio 3.0d at      1
+mercedes benz  sprinter      mercedes benz sprinter special 311 cdi 2.2l      1
+mercedes benz  sprinter      mercedes benz sprinter special 313 cdi 2.2l      1
+mercedes benz   v class                          mercedes benz v220d cdi      4
+mercedes benz   v class                           mercedes benz v250 amg     12
+mercedes benz   v class                    mercedes benz v250 avantgarde      4
+mercedes benz   v class                        mercedes benz v250 luxury     14
+mercedes benz   v class                mercedes benz v250 maybach luxury      1
+mercedes benz   v class                    mercedes benz v300 avantgarde      1
+mercedes benz      vito                   mercedes benz vito 111 cdi van      2
+mercedes benz      vito                    mercedes benz vito tourer 121      2
+mercedes benz      vito                 mercedes benz vito tourer 121 v2      1

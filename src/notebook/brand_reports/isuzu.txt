@@ -1,0 +1,25 @@
+brand     model                                    name  count
+isuzu      dmax          isuzu dmax hi lander z 1.9l at      1
+isuzu      dmax                   isuzu dmax ls 1.9l at      3
+isuzu      dmax                   isuzu dmax ls 1.9l mt      4
+isuzu      dmax                    isuzu dmax ls 2.5 at      3
+isuzu      dmax                    isuzu dmax ls 2.5 mt      5
+isuzu      dmax                    isuzu dmax ls 3.0 at      5
+isuzu      dmax                    isuzu dmax ls 3.0 mt      4
+isuzu      dmax          isuzu dmax ls prestige 1.9l at      2
+isuzu      dmax          isuzu dmax ls prestige 1.9l mt      1
+isuzu hi lander           isuzu hi lander v spec 2.5 at      1
+isuzu hi lander           isuzu hi lander v spec 2.5 mt      4
+isuzu hi lander isuzu hi lander v spec street custom mt      1
+isuzu hi lander          isuzu hi lander x treme 2.5 mt      2
+isuzu      mu-x                       isuzu mu x 1.9 at      4
+isuzu      mu-x               isuzu mu x 1.9 at limited      1
+isuzu      mu-x                       isuzu mu x 1.9 mt      4
+isuzu      mu-x                       isuzu mu x 2.5 mt      1
+isuzu      mu-x                       isuzu mu x 3.0 at      4
+isuzu      mu-x                    isuzu mu x b7 1.9 mt      2
+isuzu      mu-x               isuzu mu x b7 plus 1.9 at      1
+isuzu      mu-x              isuzu mu x prestige 1.9 at      1
+isuzu       qkr                      isuzu qkr qmr77he4      1
+isuzu       qkr           isuzu qkr qmr77he4 canvas box      1
+isuzu   trooper                        isuzu trooper ls      2

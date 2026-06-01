@@ -1,0 +1,3 @@
+brand   model                   name  count
+geely coolray geely coolray flagship      5
+geely     ex5          geely ex5 max      1

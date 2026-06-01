@@ -1,0 +1,19 @@
+brand      model                         name  count
+ mini     cooper           mini cooper 1.6 at      1
+ mini     cooper       mini cooper 3 door jcw      3
+ mini     cooper           mini cooper 5 door      2
+ mini     cooper          mini cooper clubman      1
+ mini     cooper mini cooper clubman jcw all4      1
+ mini     cooper        mini cooper clubman s     18
+ mini     cooper    mini cooper convertible s      1
+ mini     cooper       mini cooper countryman      4
+ mini     cooper     mini cooper countryman s      4
+ mini     cooper          mini cooper jcw 3dr      2
+ mini     cooper                mini cooper s      3
+ mini     cooper         mini cooper s 3 door     18
+ mini     cooper            mini cooper s 3dr      7
+ mini     cooper         mini cooper s 5 door      5
+ mini     cooper            mini cooper s 5dr     21
+ mini     cooper    mini cooper s convertible      2
+ mini countryman       mini countryman s all4      1
+ mini        one              mini one 1.5 at      1

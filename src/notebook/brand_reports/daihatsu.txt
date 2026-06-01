@@ -1,0 +1,4 @@
+   brand   model                    name  count
+daihatsu charade daihatsu charade 1.0 at      1
+daihatsu citivan daihatsu citivan 1.6 mt      2
+daihatsu  terios  daihatsu terios 1.3 mt      6

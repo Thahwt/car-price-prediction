@@ -1,0 +1,29 @@
+brand model                                    name  count
+volvo  ec40                        volvo ec40 ultra      9
+volvo   s60                   volvo s60 t5 r design      6
+volvo   s90            volvo s90 inscription lwb b6      6
+volvo   s90                volvo s90 inscription t6      7
+volvo   s90               volvo s90 lwb ultimate b6      3
+volvo   s90      volvo s90 lwb ultimate recharge t8      3
+volvo   s90               volvo s90 ultimate lwb b6      9
+volvo   s90                      volvo s90 ultra b6      4
+volvo   v60              volvo v60 cross country b5      2
+volvo  xc40                  volvo xc40 t5 r design      6
+volvo  xc40                  volvo xc40 ultimate b5     12
+volvo  xc40                     volvo xc40 ultra b5      2
+volvo  xc60                  volvo xc60 inscription      2
+volvo  xc60               volvo xc60 inscription b6     20
+volvo  xc60                  volvo xc60 r design b6      3
+volvo  xc60                  volvo xc60 recharge t8      3
+volvo  xc60         volvo xc60 recharge ultimate t8      8
+volvo  xc60               volvo xc60 t6 inscription      8
+volvo  xc60           volvo xc60 ultimate bright b6     27
+volvo  xc60                     volvo xc60 ultra b6      2
+volvo  xc90               volvo xc90 inscription t6      2
+volvo  xc90      volvo xc90 plug in hybrid ultra t8      1
+volvo  xc90                  volvo xc90 recharge t8      4
+volvo  xc90         volvo xc90 recharge ultimate t8      2
+volvo  xc90               volvo xc90 t6 inscription      6
+volvo  xc90 volvo xc90 t8 plug in hybrid excellence      3
+volvo  xc90                  volvo xc90 t8 recharge      1
+volvo  xc90                  volvo xc90 ultimate b6      1

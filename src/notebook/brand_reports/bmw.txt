@@ -1,0 +1,77 @@
+brand    model                         name  count
+  bmw 1 series                     bmw 118i      6
+  bmw 2 series       bmw 218i active tourer      3
+  bmw 2 series         bmw 218i gran tourer      2
+  bmw 3 series                  bmw 318i at      2
+  bmw 3 series                     bmw 320i     60
+  bmw 3 series         bmw 320i convertible      1
+  bmw 3 series                  bmw 320i gt      1
+  bmw 3 series             bmw 320i m sport     11
+  bmw 3 series          bmw 320i sport line     54
+  bmw 3 series     bmw 320i sport line plus      5
+  bmw 3 series                     bmw 325i      3
+  bmw 3 series         bmw 325i convertible      1
+  bmw 3 series                     bmw 328i      3
+  bmw 3 series                  bmw 328i gt      2
+  bmw 3 series             bmw 330i m sport     25
+  bmw 3 series          bmw 330i sport line      6
+  bmw 4 series         bmw 420i convertible      1
+  bmw 4 series               bmw 420i coupe      1
+  bmw 4 series          bmw 420i gran coupe      2
+  bmw 4 series         bmw 428i convertible      1
+  bmw 4 series          bmw 428i gran coupe      2
+  bmw 4 series bmw 430i convertible m sport     25
+  bmw 4 series  bmw 430i gran coupe m sport      1
+  bmw 5 series                     bmw 520i     37
+  bmw 5 series              bmw 520i luxury      4
+  bmw 5 series         bmw 520i luxury line      7
+  bmw 5 series             bmw 520i m sport      3
+  bmw 5 series                     bmw 523i      3
+  bmw 5 series                     bmw 525i      2
+  bmw 5 series                     bmw 528i      3
+  bmw 5 series                  bmw 528i gt      5
+  bmw 5 series                     bmw 530i      8
+  bmw 5 series         bmw 530i luxury line      6
+  bmw 5 series             bmw 530i m sport      1
+  bmw 5 series                  bmw 535i gt      1
+  bmw 7 series                     bmw 730d      1
+  bmw 7 series                    bmw 730li     17
+  bmw 7 series            bmw 730li m sport      4
+  bmw 7 series                 bmw 735i lwb      1
+  bmw 7 series             bmw 735i m sport      3
+  bmw 7 series     bmw 735i pure excellence      2
+  bmw 7 series     bmw 740i pure excellence     10
+  bmw 7 series                    bmw 740li     10
+  bmw 7 series                    bmw 750li      3
+  bmw 7 series                    bmw 760li      2
+  bmw       i8           bmw i8 1.5l hybrid     13
+  bmw       m3                bmw m3 3.0 at      1
+  bmw       m4                 bmw m4 coupe      1
+  bmw       x1             bmw x1 sdrive18i     11
+  bmw       x1             bmw x1 sdrive20i      2
+  bmw       x2             bmw x2 sdrive18i      1
+  bmw       x2   bmw x2 sdrive20i m sport x      2
+  bmw       x3                  bmw x3 2.0d      1
+  bmw       x3             bmw x3 sdrive20i     13
+  bmw       x3     bmw x3 sdrive20i m sport     17
+  bmw       x3             bmw x3 xdrive20i     28
+  bmw       x3     bmw x3 xdrive20i m sport      7
+  bmw       x3       bmw x3 xdrive20i xline      3
+  bmw       x3     bmw x3 xdrive30i m sport     15
+  bmw       x3       bmw x3 xdrive30i xline      1
+  bmw       x4             bmw x4 xdrive20i      9
+  bmw       x4     bmw x4 xdrive20i m sport     11
+  bmw       x4             bmw x4 xdrive28i      1
+  bmw       x5                 bmw x5 3.0si      4
+  bmw       x5                  bmw x5 4.8i      1
+  bmw       x5             bmw x5 xdrive35i      5
+  bmw       x5     bmw x5 xdrive40i m sport     20
+  bmw       x5       bmw x5 xdrive40i xline      2
+  bmw       x5  bmw x5 xdrive40i xline plus      2
+  bmw       x6             bmw x6 xdrive30d      2
+  bmw       x6             bmw x6 xdrive35i     24
+  bmw       x6     bmw x6 xdrive40i m sport      8
+  bmw       x7             bmw x7 xdrive40i      6
+  bmw       x7     bmw x7 xdrive40i m sport      6
+  bmw       z4     bmw z4 sdrive20i m sport      7
+  bmw       z4     bmw z4 sdrive30i m sport     13

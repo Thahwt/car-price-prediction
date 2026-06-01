@@ -1,0 +1,3 @@
+brand model            name  count
+  sym  t880 sym t880 1.3 mt      1
+  sym    v5   sym v5 1.5 mt      1

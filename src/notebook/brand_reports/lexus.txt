@@ -1,0 +1,48 @@
+brand model                              name  count
+lexus    es                      lexus es 250     62
+lexus    es              lexus es 250 f sport     11
+lexus    es                     lexus es 300h      9
+lexus    es                      lexus es 350      6
+lexus    gs                      lexus gs 300      3
+lexus    gs                      lexus gs 350     10
+lexus    gs                      lexus gs 400      1
+lexus    gs                      lexus gs 430      1
+lexus    gx                      lexus gx 460     68
+lexus    gx                      lexus gx 470     11
+lexus    gx                    lexus gx 550 m     10
+lexus    is                      lexus is 250      5
+lexus    is              lexus is 250 f sport      1
+lexus    is                     lexus is 250c      5
+lexus    lm                     lexus lm 300h      5
+lexus    lm        lexus lm 300h royal lounge     10
+lexus    lm                      lexus lm 350     15
+lexus    lm                     lexus lm 500h     32
+lexus    ls                      lexus ls 430      1
+lexus    ls                     lexus ls 460l     23
+lexus    ls                      lexus ls 500      9
+lexus    ls                     lexus ls 500h      5
+lexus    ls                    lexus ls 600hl      4
+lexus    lx                      lexus lx 470      1
+lexus    lx                      lexus lx 570     94
+lexus    lx          lexus lx 570 super sport     48
+lexus    lx      lexus lx 570 super sport mbs     25
+lexus    lx                lexus lx 600 urban     43
+lexus    lx                  lexus lx 600 vip     13
+lexus    nx                     lexus nx 200t     13
+lexus    nx                      lexus nx 300     27
+lexus    nx              lexus nx 350 f sport      4
+lexus    nx                     lexus nx 350h      1
+lexus    rc                     lexus rc 200t      2
+lexus    rx                     lexus rx 200t     11
+lexus    rx                      lexus rx 300     88
+lexus    rx              lexus rx 300 f sport      7
+lexus    rx                      lexus rx 350    110
+lexus    rx              lexus rx 350 f sport      6
+lexus    rx               lexus rx 350 luxury     12
+lexus    rx              lexus rx 350 premium     38
+lexus    rx              lexus rx 350h luxury      3
+lexus    rx             lexus rx 350h premium     11
+lexus    rx                     lexus rx 350l     17
+lexus    rx                     lexus rx 400h      1
+lexus    rx                     lexus rx 450h      8
+lexus    rx lexus rx 500h f sport performance      6

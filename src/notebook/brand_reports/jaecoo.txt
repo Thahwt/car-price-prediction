@@ -1,0 +1,3 @@
+ brand model                            name  count
+jaecoo    j7 jaecoo j7 flagship 1.6 at turbo      6
+jaecoo    j7          jaecoo j7 phev 1.5t at      9

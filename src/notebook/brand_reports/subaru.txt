@@ -1,0 +1,9 @@
+ brand    model                            name  count
+subaru      brz      subaru brz 2.4 at eyesight      1
+subaru      brz                  subaru brz 6mt      3
+subaru forester          subaru forester 2.0i l     10
+subaru forester subaru forester 2.0i l eyesight      2
+subaru forester          subaru forester 2.0i s      3
+subaru forester subaru forester 2.0i s eyesight     14
+subaru forester           subaru forester 2.0xt      3
+subaru  outback             subaru outback 2.5i      4

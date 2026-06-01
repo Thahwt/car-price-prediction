@@ -1,0 +1,50 @@
+brand   model                         name  count
+honda  accord          honda accord 1.5 at      4
+honda  accord          honda accord 2.0 at      4
+honda  accord          honda accord 2.0 mt      4
+honda  accord          honda accord 2.4 at      7
+honda  accord    honda accord 2.4 at coupe      1
+honda    br v                 honda br v g      4
+honda    br v                 honda br v l     15
+honda    brio                honda brio rs     26
+honda    city               honda city 1.5     22
+honda    city            honda city 1.5 at     29
+honda    city            honda city 1.5 mt      3
+honda    city            honda city 1.5top     52
+honda    city          honda city e 1.5 at      1
+honda    city          honda city g 1.5 at      3
+honda    city          honda city l 1.5 at     12
+honda    city         honda city rs 1.5 at     66
+honda   civic  honda civic 1.5g vtec turbo      2
+honda   civic  honda civic 1.5l vtec turbo      4
+honda   civic           honda civic 1.8 at     22
+honda   civic            honda civic 1.8 e     12
+honda   civic           honda civic 1.8 mt     12
+honda   civic           honda civic 2.0 at     17
+honda   civic  honda civic e:hev rs 2.0 at      1
+honda   civic         honda civic g 1.5 at      8
+honda   civic         honda civic g 1.8 at     22
+honda   civic        honda civic rs 1.5 at     27
+honda   civic   honda civic typer r 2.0 mt      1
+honda    cr z        honda cr z 1.5 hybrid      1
+honda     crv             honda crv 2.0 at     27
+honda     crv             honda crv 2.4 at     72
+honda     crv          honda crv 2.4 at tg     25
+honda     crv                  honda crv e      7
+honda     crv            honda crv e:hev l      1
+honda     crv           honda crv e:hev rs     25
+honda     crv                  honda crv g     29
+honda     crv                  honda crv l    148
+honda     crv                honda crv lse      5
+honda     hrv           honda hrv e:hev rs      1
+honda     hrv                  honda hrv g     24
+honda     hrv                  honda hrv l     21
+honda     hrv                 honda hrv rs     16
+honda    jazz                honda jazz rs     14
+honda    jazz                 honda jazz v      1
+honda    jazz                honda jazz vx      2
+honda  legend          honda legend 3.5 at      1
+honda odyssey         honda odyssey 2.4 at      4
+honda odyssey    honda odyssey ex l 3.5 at      2
+honda odyssey honda odyssey touring 3.5 at      2
+honda   pilot           honda pilot 3.5 v6      1

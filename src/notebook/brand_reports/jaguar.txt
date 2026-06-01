@@ -1,0 +1,14 @@
+ brand     model                                  name  count
+jaguar    f type                   jaguar f type s 3.0      1
+jaguar    f-pace                jaguar f pace prestige      1
+jaguar    f-pace                    jaguar f pace pure      1
+jaguar    f-pace             jaguar f pace pure 2.0 at      1
+jaguar    f-pace                 jaguar f pace r sport      1
+jaguar    f-pace          jaguar f pace r sport 2.0 at      1
+jaguar        xe                           jaguar xe t      1
+jaguar        xf                      jaguar xf 2.0 at     13
+jaguar        xf                    jaguar xf prestige      1
+jaguar xj series    jaguar xj series xjl 3.0 portfolio      2
+jaguar xj series jaguar xj series xjl 3.0 supercharged      3
+jaguar xj series             jaguar xj series xjl 3.0d      2
+jaguar xj series jaguar xj series xjl 5.0 supercharged      2

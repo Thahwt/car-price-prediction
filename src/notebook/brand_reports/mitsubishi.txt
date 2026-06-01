@@ -1,0 +1,68 @@
+     brand           model                                         name  count
+mitsubishi          3000gt                mitsubishi 3000gt vr 4 spyder      1
+mitsubishi         attrage                    mitsubishi attrage 1.2 at      1
+mitsubishi         attrage                   mitsubishi attrage 1.2 cvt     35
+mitsubishi         attrage                    mitsubishi attrage 1.2 mt     46
+mitsubishi         attrage                mitsubishi attrage 1.2 mt eco      2
+mitsubishi         attrage                    mitsubishi attrage 1.2cvt      2
+mitsubishi         attrage                     mitsubishi attrage 1.2mt      3
+mitsubishi         attrage           mitsubishi attrage premium 1.2 cvt     22
+mitsubishi            colt                  mitsubishi colt plus 1.6 at      1
+mitsubishi      destinator                mitsubishi destinator premium      1
+mitsubishi      destinator               mitsubishi destinator ultimate      2
+mitsubishi         grandis                    mitsubishi grandis 2.4 at     17
+mitsubishi           jolie                          mitsubishi jolie mb      5
+mitsubishi           jolie                          mitsubishi jolie ss     13
+mitsubishi          lancer               mitsubishi lancer fotis 2.0 at      1
+mitsubishi          lancer                 mitsubishi lancer glx 1.6 at      2
+mitsubishi          lancer                mitsubishi lancer glxi 1.6 mt      1
+mitsubishi          lancer                  mitsubishi lancer io 2.0 at      1
+mitsubishi          mirage                     mitsubishi mirage 1.2 at      4
+mitsubishi          mirage                    mitsubishi mirage 1.2 cvt      1
+mitsubishi          mirage                mitsubishi mirage 1.2 cvt eco      4
+mitsubishi          mirage                     mitsubishi mirage 1.2 mt      1
+mitsubishi          mirage                     mitsubishi mirage 1.2cvt      4
+mitsubishi          mirage                      mitsubishi mirage 1.2mt      2
+mitsubishi       outlander                 mitsubishi outlander 2.0 cvt     54
+mitsubishi       outlander         mitsubishi outlander 2.0 cvt premium     15
+mitsubishi       outlander mitsubishi outlander 2.0 cvt special edition      1
+mitsubishi       outlander                 mitsubishi outlander 2.0 std      2
+mitsubishi       outlander         mitsubishi outlander 2.4 cvt premium      2
+mitsubishi       outlander         mitsubishi outlander premium 2.0 cvt     20
+mitsubishi outlander sport   mitsubishi outlander sport 2.0 cvt premium      6
+mitsubishi          pajero                        mitsubishi pajero 2.8      1
+mitsubishi          pajero                        mitsubishi pajero 3.0     18
+mitsubishi          pajero                        mitsubishi pajero 3.5      3
+mitsubishi    pajero sport              mitsubishi pajero sport 2.4d at     37
+mitsubishi    pajero sport              mitsubishi pajero sport 2.4d mt      6
+mitsubishi    pajero sport              mitsubishi pajero sport 3.0g at      4
+mitsubishi    pajero sport      mitsubishi pajero sport 3.0g at premium      3
+mitsubishi    pajero sport          mitsubishi pajero sport 3.0g at std      2
+mitsubishi    pajero sport          mitsubishi pajero sport 3.0g std at      1
+mitsubishi    pajero sport                 mitsubishi pajero sport d at     13
+mitsubishi    pajero sport                 mitsubishi pajero sport d mt     17
+mitsubishi    pajero sport                 mitsubishi pajero sport g at     10
+mitsubishi          savrin                     mitsubishi savrin 2.4 at      1
+mitsubishi          triton                         mitsubishi triton at     25
+mitsubishi          triton                   mitsubishi triton at mivec     45
+mitsubishi          triton           mitsubishi triton at mivec premium     16
+mitsubishi          triton                 mitsubishi triton athlete at     17
+mitsubishi          triton           mitsubishi triton athlete at mivec      9
+mitsubishi          triton                      mitsubishi triton gl mt      1
+mitsubishi          triton                     mitsubishi triton gls at      2
+mitsubishi          triton                     mitsubishi triton gls mt      1
+mitsubishi          triton                     mitsubishi triton glx at      9
+mitsubishi          triton                     mitsubishi triton glx mt      2
+mitsubishi          triton                         mitsubishi triton mt     10
+mitsubishi          xforce                     mitsubishi xforce exceed      5
+mitsubishi          xforce                        mitsubishi xforce glx      1
+mitsubishi          xforce                    mitsubishi xforce premium     16
+mitsubishi          xforce                   mitsubishi xforce ultimate      9
+mitsubishi         xpander                    mitsubishi xpander 1.5 at    157
+mitsubishi         xpander            mitsubishi xpander 1.5 at special      2
+mitsubishi         xpander                    mitsubishi xpander 1.5 mt     54
+mitsubishi         xpander              mitsubishi xpander cross 1.5 at     84
+mitsubishi         xpander            mitsubishi xpander premium 1.5 at    127
+mitsubishi          zinger                  mitsubishi zinger gl 2.4 mt      2
+mitsubishi          zinger                 mitsubishi zinger gls 2.4 at      1
+mitsubishi          zinger                 mitsubishi zinger gls 2.4 mt      9

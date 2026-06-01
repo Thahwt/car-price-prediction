@@ -1,0 +1,2 @@
+ brand  model                 name  count
+teraco tera-v teraco tera v 1.5 mt      2

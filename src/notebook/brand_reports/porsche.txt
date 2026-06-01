@@ -1,0 +1,39 @@
+  brand    model                                     name  count
+porsche      718               porsche 718 boxster 2.0 at     15
+porsche      718 porsche 718 boxster style edition 2.0 at      1
+porsche      718             porsche 718 boxster t 2.0 at      2
+porsche      718                porsche 718 cayman 2.0 at      7
+porsche      911                      porsche 911 carrera     11
+porsche      911                porsche 911 carrera 4 gts      4
+porsche      911            porsche 911 carrera cabriolet      5
+porsche      911                    porsche 911 carrera s      7
+porsche  cayenne                   porsche cayenne 3.0 v6     48
+porsche  cayenne             porsche cayenne 3.0 v6 coupe      1
+porsche  cayenne            porsche cayenne 3.0 v6 diesel      1
+porsche  cayenne                     porsche cayenne 3.2i      1
+porsche  cayenne                   porsche cayenne 3.6 v6     25
+porsche  cayenne                    porsche cayenne coupe      7
+porsche  cayenne   porsche cayenne coupe platinum edition      2
+porsche  cayenne                      porsche cayenne gts      2
+porsche  cayenne                porsche cayenne gts coupe      1
+porsche  cayenne         porsche cayenne platinum edition      8
+porsche  cayenne                        porsche cayenne s      9
+porsche  cayenne                  porsche cayenne s coupe      1
+porsche    macan                        porsche macan 2.0    141
+porsche    macan                       porsche macan 4 ev      7
+porsche    macan                        porsche macan gts      2
+porsche    macan                          porsche macan s     25
+porsche    macan                      porsche macan t 2.0      1
+porsche panamera                  porsche panamera 2.9 v6     14
+porsche panamera                  porsche panamera 3.0 v6     38
+porsche panamera                  porsche panamera 3.6 v6     11
+porsche panamera                       porsche panamera 4      6
+porsche panamera                porsche panamera 4 3.0 v6      3
+porsche panamera    porsche panamera 4 e hybrid executive      1
+porsche panamera             porsche panamera 4 executive     46
+porsche panamera                      porsche panamera 4s      3
+porsche panamera        porsche panamera platinum edition      6
+porsche panamera                 porsche panamera turbo s      2
+porsche   taycan                        porsche taycan 4s      2
+porsche   taycan                      porsche taycan base      9
+porsche   taycan                     porsche taycan turbo      1

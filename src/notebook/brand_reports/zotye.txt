@@ -1,0 +1,4 @@
+brand model                name  count
+zotye  t300  zotye t300 1.5 cvt      1
+zotye  t600 zotye t600 s 2.0 at      1
+zotye    z8     zotye z8 2.0 at      1

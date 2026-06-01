@@ -1,0 +1,6 @@
+      brand     model                                name  count
+lamborghini aventador      lamborghini aventador lp 700 4      1
+lamborghini   huracan             lamborghini huracan evo      1
+lamborghini   huracan     lamborghini huracan lp610 coupe      2
+lamborghini      urus             lamborghini urus 4.0 v8      3
+lamborghini      urus lamborghini urus performante 4.0 v8      2

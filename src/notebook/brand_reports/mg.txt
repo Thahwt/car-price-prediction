@@ -1,0 +1,20 @@
+brand model                  name  count
+   mg     4           mg 4 ev lux      1
+   mg     5            mg 5 1. mt     19
+   mg     5     mg 5 luxury 1. at     48
+   mg     5   mg 5 standard 1. at     20
+   mg     7      mg 7 1.5t luxury      1
+   mg     7     mg 7 2.0t premium      3
+   mg   g50     mg g50 1.5 at del      1
+   mg   g50  mg g50 1.5 at lux 8s      7
+   mg   g50     mg g50 1.5 mt com      1
+   mg    hs        mg hs 1.5t del      9
+   mg    hs        mg hs 1.5t lux     17
+   mg    hs    mg hs sport 1.5 at      2
+   mg    hs   mg hs trophy 1.5 at      3
+   mg    hs   mg hs trophy 2.0 at      2
+   mg   rx5       mg rx5 1.5t lux      8
+   mg   rx5       mg rx5 1.5t std     18
+   mg    zs  mg zs comfort 1.5 at      7
+   mg    zs   mg zs luxury 1.5 at     52
+   mg    zs mg zs standard 1.5 at     56

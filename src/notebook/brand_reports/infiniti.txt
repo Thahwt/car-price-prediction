@@ -1,0 +1,8 @@
+   brand model                      name  count
+infiniti    ex            infiniti ex 35      1
+infiniti   g35       infiniti g35 3.5 at      1
+infiniti   g37       infiniti g37 3.7 at      1
+infiniti  qx50      infiniti qx50 2.0 at      1
+infiniti  qx60         infiniti qx60 3.5      4
+infiniti  qx60 infiniti qx60 premium 3.5      1
+infiniti  qx80      infiniti qx80 80 5.6      3

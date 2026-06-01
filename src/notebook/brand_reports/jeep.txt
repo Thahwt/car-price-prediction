@@ -1,0 +1,6 @@
+brand          model                                        name  count
+ jeep      gladiator                      jeep gladiator rubicon      1
+ jeep grand cherokee        jeep grand cherokee l limited 3.6 v6      1
+ jeep grand cherokee jeep grand cherokee l summit reserve 3.6 v6      1
+ jeep       wrangler                jeep wrangler rubicon 2.0 at     18
+ jeep       wrangler        jeep wrangler sahara overland 2.0 at      1

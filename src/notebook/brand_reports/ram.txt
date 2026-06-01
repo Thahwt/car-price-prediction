@@ -1,0 +1,4 @@
+brand model                                name  count
+  ram  1500 ram 1500 laie night edition 5.7l at      3
+  ram  1500           ram 1500 longhorn 5.7l at      1
+  ram  1500                ram 1500 trx 6.2l at      2

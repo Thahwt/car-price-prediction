@@ -1,0 +1,18 @@
+  brand       model                                  name  count
+bentley    bentayga               bentley bentayga 4.0 v8      2
+bentley    bentayga                  bentley bentayga w12      2
+bentley continental                bentley continental gt      7
+bentley continental           bentley continental gt s v8      1
+bentley continental          bentley continental gt speed      6
+bentley continental             bentley continental gt v8      1
+bentley continental               bentley continental gtc      1
+bentley flying spur            bentley flying spur 6.0 v8      2
+bentley flying spur  bentley flying spur first edition v8      4
+bentley flying spur bentley flying spur first edition w12      3
+bentley flying spur             bentley flying spur speed      3
+bentley flying spur                bentley flying spur v8      6
+bentley flying spur              bentley flying spur v8 s      1
+bentley flying spur               bentley flying spur w12      1
+bentley    mulsanne              bentley mulsanne 6.75 v8      1
+bentley    mulsanne                  bentley mulsanne ewb      1
+bentley    mulsanne                bentley mulsanne speed      9

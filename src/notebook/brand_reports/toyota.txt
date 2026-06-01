@@ -1,0 +1,202 @@
+ brand         model                                   name  count
+toyota      4 runner                    toyota 4 runner 3.0      1
+toyota      4 runner                    toyota 4 runner sr5      1
+toyota            86                       toyota 86 2.0 at      1
+toyota       alphard                  toyota alphard 2.4 at     19
+toyota       alphard                  toyota alphard 3.5 v6      1
+toyota       alphard        toyota alphard executive lounge      1
+toyota       alphard              toyota alphard hev 2.5 at      2
+toyota       alphard toyota alphard luxury executive lounge     50
+toyota        avanza                   toyota avanza 1.3 mt      1
+toyota        avanza                   toyota avanza 1.5 at      4
+toyota        avanza            toyota avanza premio 1.5 at     28
+toyota        avanza            toyota avanza premio 1.5 mt     11
+toyota          aygo                     toyota aygo 1.0 at      5
+toyota         camry                    toyota camry 1.8 mt      1
+toyota         camry                      toyota camry 2.0e     56
+toyota         camry                      toyota camry 2.0g     32
+toyota         camry                      toyota camry 2.0q     55
+toyota         camry                      toyota camry 2.4g     58
+toyota         camry               toyota camry 2.5 hev mid      1
+toyota         camry               toyota camry 2.5 hev top      5
+toyota         camry                      toyota camry 2.5g      7
+toyota         camry                     toyota camry 2.5hv      8
+toyota         camry                      toyota camry 2.5q    128
+toyota         camry                      toyota camry 3.0v      7
+toyota         camry                      toyota camry 3.5q      5
+toyota         camry                 toyota camry gl 2.2 mt      1
+toyota         camry                   toyota camry gli 2.2      9
+toyota         camry             toyota camry grande 3.0 at      1
+toyota         camry             toyota camry grande 3.0 v6      4
+toyota         camry                 toyota camry le 2.0 at      1
+toyota         camry                 toyota camry le 2.2 at      2
+toyota         camry                    toyota camry le 2.4     13
+toyota         camry                    toyota camry le 2.5     15
+toyota         camry                 toyota camry le 3.0 at      1
+toyota         camry                    toyota camry se 2.4      1
+toyota         camry                    toyota camry se 2.5      3
+toyota         camry                 toyota camry se 2.5 at      1
+toyota         camry                   toyota camry xle 2.5      1
+toyota         camry                toyota camry xle 2.5 at      1
+toyota         camry                   toyota camry xle 3.5      1
+toyota         camry                   toyota camry xli 2.2      1
+toyota       corolla              toyota corolla gli 1.6 mt      3
+toyota       corolla                 toyota corolla gli 1.8      1
+toyota       corolla              toyota corolla gli 1.8 at      2
+toyota       corolla                   toyota corolla s 1.8      1
+toyota       corolla                toyota corolla s 1.8 mt      1
+toyota       corolla              toyota corolla xli 1.6 at      7
+toyota       corolla              toyota corolla xli 1.8 at      3
+toyota corolla altis           toyota corolla altis 1.8e at      6
+toyota corolla altis              toyota corolla altis 1.8g      1
+toyota corolla altis           toyota corolla altis 1.8g at     99
+toyota corolla altis           toyota corolla altis 1.8g mt     33
+toyota corolla altis              toyota corolla altis 1.8v     18
+toyota corolla altis              toyota corolla altis 2.0v     22
+toyota corolla altis        toyota corolla altis 2.0v sport      1
+toyota corolla cross              toyota corolla cross 1.8g     35
+toyota corolla cross            toyota corolla cross 1.8hev      3
+toyota corolla cross             toyota corolla cross 1.8hv     14
+toyota corolla cross              toyota corolla cross 1.8v    161
+toyota        corona                  toyota corona gli 2.0      4
+toyota      cressida                 toyota cressida gl 2.4      1
+toyota         crown       toyota crown royal saloon 3.0 at      1
+toyota         crown         toyota crown super saloon 2.8i      1
+toyota         crown       toyota crown super saloon 3.0 mt      5
+toyota      fortuner                toyota fortuner 2.4g at     68
+toyota      fortuner       toyota fortuner 2.4g at legender     10
+toyota      fortuner                toyota fortuner 2.4g mt     78
+toyota      fortuner                toyota fortuner 2.4l at     37
+toyota      fortuner                toyota fortuner 2.4l mt      5
+toyota      fortuner                   toyota fortuner 2.5g     71
+toyota      fortuner                toyota fortuner 2.7l at      3
+toyota      fortuner                toyota fortuner 2.7v at    137
+toyota      fortuner            toyota fortuner 2.7v at trd      3
+toyota      fortuner                toyota fortuner 2.8v at      8
+toyota      fortuner       toyota fortuner 2.8v at legender      2
+toyota      fortuner       toyota fortuner legender 2.4l at     21
+toyota      fortuner       toyota fortuner legender 2.7l at      4
+toyota      fortuner       toyota fortuner legender 2.8l at      4
+toyota      fortuner             toyota fortuner sr5 2.7 at      1
+toyota      fortuner        toyota fortuner trd sportivo at     20
+toyota         hiace                       toyota hiace 2.0      1
+toyota         hiace                       toyota hiace 2.4      1
+toyota         hiace                       toyota hiace 2.5     10
+toyota         hiace                       toyota hiace 2.7      2
+toyota         hiace                    toyota hiace 2.8 mt      1
+toyota         hiace                       toyota hiace 3.0      2
+toyota         hiace                   toyota hiace van 2.0      1
+toyota         hiace                   toyota hiace van 2.4      2
+toyota         hiace                   toyota hiace van 2.5      5
+toyota    highlander               toyota highlander le 2.7      6
+toyota    highlander          toyota highlander limited 3.5      1
+toyota    highlander               toyota highlander se 2.7      6
+toyota         hilux                   toyota hilux 2.4e at     13
+toyota         hilux                   toyota hilux 2.4e mt      2
+toyota         hilux                   toyota hilux 2.4l at     46
+toyota         hilux                   toyota hilux 2.4l mt      2
+toyota         hilux                   toyota hilux 2.5e mt      3
+toyota         hilux                   toyota hilux 2.8g at      7
+toyota         hilux                   toyota hilux 2.8l at      2
+toyota         hilux                   toyota hilux 3.0g at      4
+toyota         hilux                   toyota hilux 3.0g mt      2
+toyota         hilux         toyota hilux adventure 2.8l at      2
+toyota        innova             toyota innova 2.0 venturer     12
+toyota        innova                     toyota innova 2.0e    141
+toyota        innova                     toyota innova 2.0g     36
+toyota        innova                     toyota innova 2.0v      4
+toyota        innova            toyota innova cross 2.0 cvt      8
+toyota        innova           toyota innova cross 2.0v cvt      3
+toyota        innova        toyota innova cross hev 2.0 cvt     23
+toyota        innova                 toyota innova e 2.0 mt     35
+toyota        innova                        toyota innova g     65
+toyota        innova                 toyota innova g 2.0 at     18
+toyota        innova                      toyota innova gsr      1
+toyota        innova                        toyota innova j      4
+toyota        innova                        toyota innova v      5
+toyota        innova          toyota innova venturer 2.0 at      3
+toyota            iq                       toyota iq 1.0 at      2
+toyota            iq                      toyota iq 1.33 at      3
+toyota  land cruiser             toyota land cruiser 3.5 v6     81
+toyota  land cruiser             toyota land cruiser 4.2 mt      1
+toyota  land cruiser             toyota land cruiser 4.5 mt      1
+toyota  land cruiser             toyota land cruiser 4.6 v8     19
+toyota  land cruiser             toyota land cruiser 5.7 v8      7
+toyota  land cruiser         toyota land cruiser exr 3.5 v6      1
+toyota  land cruiser             toyota land cruiser gx 4.5     12
+toyota  land cruiser        toyota land cruiser gx.r 4.5 v8      3
+toyota  land cruiser          toyota land cruiser ii 2.4 mt      3
+toyota  land cruiser          toyota land cruiser vx 4.0 v6      1
+toyota  land cruiser          toyota land cruiser vx 4.6 v8     30
+toyota  land cruiser          toyota land cruiser vx 4.7 v8      3
+toyota  land cruiser        toyota land cruiser vx.r 4.6 v8      2
+toyota  land cruiser        toyota land cruiser vx.r 5.7 v8      3
+toyota  land cruiser         toyota land cruiser vxr 3.5 v6      6
+toyota         prado                 toyota prado gx 2.7 at      9
+toyota         prado                 toyota prado gx 2.7 mt      2
+toyota         prado                 toyota prado gx 3.0 mt      1
+toyota         prado                toyota prado lc250 2.4l     13
+toyota         prado                  toyota prado txl 2.7l     42
+toyota         prado                   toyota prado vx 2.7l    103
+toyota         prado                 toyota prado vx 4.0 at      2
+toyota        previa                   toyota previa 2.4 at      2
+toyota        previa                toyota previa gl 2.4 at      1
+toyota         prius                    toyota prius 1.5 at      1
+toyota         raize                 toyota raize g 1.0 cvt     58
+toyota          rav4                     toyota rav4 2.4 at      2
+toyota          rav4                     toyota rav4 2.4 mt      1
+toyota          rav4                     toyota rav4 2.5 at      1
+toyota          rav4                toyota rav4 limited 2.4      1
+toyota          rav4             toyota rav4 limited 2.4 at      1
+toyota          rav4             toyota rav4 limited 2.5 at      1
+toyota          rav4                    toyota rav4 xle 2.5      1
+toyota          rush                    toyota rush 1.5s at     26
+toyota        sienna                   toyota sienna le 2.7      1
+toyota        sienna                   toyota sienna le 3.3      2
+toyota        sienna                   toyota sienna le 3.5      6
+toyota        sienna              toyota sienna limited 3.5     28
+toyota        sienna          toyota sienna platinum 2.5 at      5
+toyota        sienna                  toyota sienna xle 3.3      1
+toyota        sienna                  toyota sienna xle 3.5      1
+toyota        solara               toyota solara sle 3.3 v6      1
+toyota        tundra             toyota tundra 1794 edition      1
+toyota         veloz             toyota veloz cross 1.5 cvt     41
+toyota         veloz         toyota veloz cross top 1.5 cvt     80
+toyota         venza                       toyota venza 2.7     20
+toyota         venza                       toyota venza 3.5      3
+toyota          vios                   toyota vios 1.3 limo      1
+toyota          vios                       toyota vios 1.3j      5
+toyota          vios                     toyota vios 1.5 mt      1
+toyota          vios                    toyota vios 1.5 trd      4
+toyota          vios                       toyota vios 1.5e     58
+toyota          vios                   toyota vios 1.5e cvt     26
+toyota          vios                    toyota vios 1.5e mt     58
+toyota          vios                       toyota vios 1.5g    112
+toyota          vios                   toyota vios 1.5g cvt      2
+toyota          vios                      toyota vios 1.5mt      2
+toyota          vios                   toyota vios e 1.5 mt     58
+toyota          vios                      toyota vios e cvt     64
+toyota          vios                          toyota vios g      2
+toyota          vios                  toyota vios g 1.5 cvt     93
+toyota          vios                       toyota vios limo      2
+toyota          vios                         toyota vios mt      1
+toyota          wigo                     toyota wigo 1.2 at     14
+toyota          wigo                     toyota wigo 1.2 mt      1
+toyota          wigo                    toyota wigo 1.2g at     20
+toyota          wigo                    toyota wigo 1.2g mt     10
+toyota          wigo                   toyota wigo e 1.2 mt      2
+toyota          wigo                   toyota wigo g 1.2 at     27
+toyota          wish                     toyota wish 2.0 at      1
+toyota         yaris                    toyota yaris 1.0 mt      1
+toyota         yaris                    toyota yaris 1.3 at     43
+toyota         yaris                      toyota yaris 1.3e      3
+toyota         yaris                      toyota yaris 1.3g     17
+toyota         yaris                    toyota yaris 1.5 at     14
+toyota         yaris                      toyota yaris 1.5g     46
+toyota         yaris                  toyota yaris g 1.5 at     10
+toyota         yaris                 toyota yaris rs 1.5 at      3
+toyota   yaris cross           toyota yaris cross 1.5 d cvt     49
+toyota   yaris cross         toyota yaris cross hev 1.5 cvt      9
+toyota          zace                         toyota zace dx      2
+toyota          zace                         toyota zace gl     24
+toyota          zace                       toyota zace surf      1

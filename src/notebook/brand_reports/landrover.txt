@@ -1,0 +1,66 @@
+    brand              model                                                  name  count
+landrover           defender      landrover defender 110 first edition p400 3.0 at      2
+landrover           defender                landrover defender 110 hse p300 2.0 at      1
+landrover           defender                    landrover defender 110 p300 2.0 at      2
+landrover           defender          landrover defender 110 x dynamic p300 2.0 at      2
+landrover           defender                  landrover defender 110 x p400 3.0 at      1
+landrover           defender                landrover defender 130 hse p400 3.0 at      2
+landrover           defender                    landrover defender 130 p400 3.0 at      1
+landrover           defender                  landrover defender 130 x p400 2.0 at      1
+landrover           defender                     landrover defender 90 p300 2.0 at      6
+landrover          discovery                      landrover discovery 4 hse 5.0 v8      1
+landrover          discovery                        landrover discovery hse luxury      2
+landrover          discovery                          landrover discovery hse sdv6      2
+landrover          discovery                            landrover discovery lr3 se      1
+landrover          discovery                                landrover discovery se      1
+landrover    discovery sport                         landrover discovery sport hse      1
+landrover    discovery sport                  landrover discovery sport hse luxury      1
+landrover         freelander                        landrover freelander 2 si4 hse      1
+landrover        range rover               landrover range rover autobiography 3.0      4
+landrover        range rover            landrover range rover autobiography 3.0 i6      1
+landrover        range rover               landrover range rover autobiography 5.0     20
+landrover        range rover            landrover range rover autobiography 5.0 v8      1
+landrover        range rover     landrover range rover autobiography lwb 2.0 p400e      1
+landrover        range rover           landrover range rover autobiography lwb 3.0      5
+landrover        range rover        landrover range rover autobiography lwb 3.0 i6     33
+landrover        range rover   landrover range rover autobiography lwb 3.0 i6 p400      3
+landrover        range rover        landrover range rover autobiography lwb 3.0 v6      1
+landrover        range rover        landrover range rover autobiography lwb 4.4 v8      2
+landrover        range rover           landrover range rover autobiography lwb 5.0     40
+landrover        range rover landrover range rover autobiography lwb black edition      8
+landrover        range rover        landrover range rover first edition swb 3.0 i6      4
+landrover        range rover        landrover range rover first edition swb 4.4 v8      3
+landrover        range rover                         landrover range rover hse 3.0     33
+landrover        range rover                      landrover range rover hse 3.0 v6      5
+landrover        range rover                     landrover range rover hse lwb 3.0      3
+landrover        range rover                      landrover range rover lwb 3.0 i6      1
+landrover        range rover                   landrover range rover se lwb 3.0 i6      6
+landrover        range rover                landrover range rover supercharged 5.0      6
+landrover        range rover            landrover range rover supercharged lwb 5.0      6
+landrover        range rover        landrover range rover sv autobiography lwb 3.0      1
+landrover        range rover        landrover range rover sv autobiography lwb 5.0      1
+landrover        range rover      landrover range rover svautobiography lwb 3.0 i6     13
+landrover        range rover                       landrover range rover vogue 3.0     13
+landrover        range rover                   landrover range rover vogue 3.0 td6      1
+landrover        range rover                       landrover range rover vogue 3.6      2
+landrover        range rover                       landrover range rover vogue 4.4      2
+landrover        range rover                landrover range rover vogue lwb 3.0 i6     10
+landrover range rover evoque                   landrover range rover evoque 2.0 at      3
+landrover range rover evoque                  landrover range rover evoque dynamic      7
+landrover range rover evoque                      landrover range rover evoque hse      5
+landrover range rover evoque                 landrover range rover evoque prestige      4
+landrover range rover evoque             landrover range rover evoque r dynamic se      2
+landrover range rover evoque                       landrover range rover evoque se      3
+landrover  range rover sport             landrover range rover sport autobiography      2
+landrover  range rover sport      landrover range rover sport autobiography 5.0 v8      1
+landrover  range rover sport   landrover range rover sport dynamic hse p360 3.0 at      4
+landrover  range rover sport                       landrover range rover sport hse     13
+landrover  range rover sport               landrover range rover sport hse dynamic      7
+landrover  range rover sport        landrover range rover sport hse dynamic 3.0 i6      2
+landrover  range rover sport      landrover range rover sport hse dynamic 3.0 sdv6      1
+landrover  range rover velar                       landrover range rover velar 2.0      1
+landrover  range rover velar             landrover range rover velar r dynamic 2.0      9
+landrover  range rover velar             landrover range rover velar r dynamic 3.0      3
+landrover  range rover velar         landrover range rover velar r dynamic hse 2.0      1
+landrover  range rover velar           landrover range rover velar r dynamic s 2.0      3
+landrover  range rover velar          landrover range rover velar r dynamic se 2.0      5

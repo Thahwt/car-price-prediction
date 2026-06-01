@@ -1,0 +1,4 @@
+brand model                  name  count
+  gac    m6    gac m6 pro gl 1.5t      2
+  gac    m6    gac m6 pro gs 1.5t      1
+  gac    m8 gac m8 gt master 2.0t      1

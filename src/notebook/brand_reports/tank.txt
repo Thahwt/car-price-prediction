@@ -1,0 +1,3 @@
+brand model                name  count
+ tank   300     tank 300 2.0 at      1
+ tank   500 tank 500 hev 2.0 at      1

@@ -1,0 +1,2 @@
+  brand     model                          name  count
+lincoln navigator lincoln navigator black label      5

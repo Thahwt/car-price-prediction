@@ -1,0 +1,108 @@
+brand     model                                       name  count
+ ford  ecosport             ford ecosport ambiente 1.5l at      1
+ ford  ecosport             ford ecosport ambiente 1.5l mt      1
+ ford  ecosport              ford ecosport titanium 1.0 at      4
+ ford  ecosport        ford ecosport titanium 1.0 ecoboost     17
+ ford  ecosport              ford ecosport titanium 1.5 at     17
+ ford  ecosport             ford ecosport titanium 1.5l at    104
+ ford  ecosport       ford ecosport titanium black 1.5l at      2
+ ford  ecosport                ford ecosport trend 1.5l at      5
+ ford  ecosport                ford ecosport trend 1.5l mt      1
+ ford    escape                         ford escape 2.3 at      2
+ ford    escape                         ford escape 3.0 v6      3
+ ford    escape                    ford escape xls 2.3l at     21
+ ford    escape                    ford escape xlt 2.3l at      6
+ ford    escape                     ford escape xlt 3.0 at      2
+ ford   everest                       ford everest 2.5l at     22
+ ford   everest                       ford everest 2.5l mt     42
+ ford   everest                       ford everest 2.6l mt     16
+ ford   everest               ford everest ambiente 2.0 at      2
+ ford   everest               ford everest ambiente 2.0 mt      2
+ ford   everest              ford everest ambiente 2.0l at      5
+ ford   everest               ford everest limited 2.5l at     11
+ ford   everest              ford everest platinum 2.0l at     34
+ ford   everest                 ford everest sport 2.0l at     32
+ ford   everest              ford everest titanium 2.0l at    304
+ ford   everest              ford everest titanium 2.2l at      9
+ ford   everest              ford everest titanium 3.2l at      1
+ ford   everest         ford everest titanium plus 2.0l at    106
+ ford   everest                 ford everest trend 2.0l at      2
+ ford   everest              ford everest wildtrak 2.0l at      6
+ ford  explorer        ford explorer limited 2.3l ecoboost     41
+ ford      f150           ford f150 harley davidson 5.0 v8      2
+ ford      f150                          ford f150 limited      1
+ ford      f150                   ford f150 limited 3.5 v6      1
+ ford      f150                         ford f150 platinum      3
+ ford    fiesta                         ford fiesta 1.4 mt      1
+ ford    fiesta                         ford fiesta 1.6 at      4
+ ford    fiesta              ford fiesta s 1.0 at ecoboost      7
+ ford    fiesta               ford fiesta s 1.0at ecoboost      4
+ ford    fiesta                       ford fiesta s 1.5 at      3
+ ford    fiesta                       ford fiesta s 1.6 at     13
+ ford    fiesta                ford fiesta titanium 1.5 at      6
+ ford    fiesta                   ford fiesta trend 1.5 at      2
+ ford     focus                          ford focus 1.8 at     15
+ ford     focus                          ford focus 1.8 mt      7
+ ford     focus                          ford focus 2.0 at      1
+ ford     focus                     ford focus 2.0 at ghia      5
+ ford     focus                        ford focus s 2.0 at      7
+ ford     focus                      ford focus sport 1.5l      9
+ ford     focus                   ford focus titanium 1.5l      8
+ ford     focus                 ford focus titanium 2.0 at      9
+ ford     focus                      ford focus trend 1.5l     33
+ ford     focus                    ford focus trend 1.6 at      6
+ ford     focus                      ford focus trend 1.6l      1
+ ford     laser                   ford laser deluxe 1.6 mt      3
+ ford     laser                     ford laser ghia 1.8 at      6
+ ford     laser                     ford laser ghia 1.8 mt      3
+ ford     laser                       ford laser lx 1.6 mt      2
+ ford     laser                      ford laser lxi 1.6 mt      1
+ ford    mondeo                         ford mondeo 2.0 at      3
+ ford    mondeo                         ford mondeo 2.3 at      5
+ ford    mondeo                         ford mondeo 2.5 at      6
+ ford   mustang                        ford mustang 2.3 at      1
+ ford   mustang         ford mustang 2.3 ecoboost fastback      2
+ ford   mustang ford mustang 2.3 ecoboost premium fastback      1
+ ford   mustang                        ford mustang 4.0 v6      1
+ ford   mustang                      ford mustang ecoboost      2
+ ford   mustang             ford mustang ecoboost fastback      5
+ ford   mustang                ford mustang mach e gt eawd      1
+ ford    ranger                ford ranger limited 2.0l at     23
+ ford    ranger                 ford ranger raptor 2.0l at    154
+ ford    ranger                  ford ranger sport 2.0l at      4
+ ford    ranger              ford ranger stormtrak 2.0l at     17
+ ford    ranger               ford ranger wildtrak 2.0l at    213
+ ford    ranger               ford ranger wildtrak 2.2l at     19
+ ford    ranger               ford ranger wildtrak 3.2l at     71
+ ford    ranger                     ford ranger xl 2.0l mt      1
+ ford    ranger                     ford ranger xl 2.2l mt      7
+ ford    ranger                     ford ranger xl 2.5l mt      5
+ ford    ranger                          ford ranger xl mt      1
+ ford    ranger                    ford ranger xls 2.0l at    160
+ ford    ranger                    ford ranger xls 2.0l mt      2
+ ford    ranger                    ford ranger xls 2.2l at    213
+ ford    ranger                    ford ranger xls 2.2l mt     40
+ ford    ranger                    ford ranger xlt 2.0l at      3
+ ford    ranger                    ford ranger xlt 2.2l at      3
+ ford    ranger                    ford ranger xlt 2.2l mt     16
+ ford    ranger                    ford ranger xlt 2.5l mt      2
+ ford    ranger                         ford ranger xlt mt      5
+ ford territory                ford territory sport 1.5 at      7
+ ford territory             ford territory titanium 1.5 at     32
+ ford territory           ford territory titanium x 1.5 at    140
+ ford territory                ford territory trend 1.5 at     10
+ ford   tourneo     ford tourneo limousine titanium 2.0 at     17
+ ford   tourneo               ford tourneo titanium 2.0 at      6
+ ford   tourneo                  ford tourneo trend 2.0 at      1
+ ford   transit                          ford transit 2.3l      1
+ ford   transit                          ford transit 2.4l      5
+ ford   transit                          ford transit base     29
+ ford   transit                     ford transit limousine     21
+ ford   transit                 ford transit limousine 12s      2
+ ford   transit                        ford transit luxury     10
+ ford   transit                       ford transit premium     13
+ ford   transit                  ford transit standard mid     12
+ ford   transit                           ford transit svp     14
+ ford   transit                         ford transit trend      1
+ ford   transit                           ford transit van     13
+ ford   transit                      ford transit van 2.4l      4

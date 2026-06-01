@@ -1,0 +1,55 @@
+    brand       model                                      name  count
+chevrolet        aveo                     chevrolet aveo 1.5 mt      2
+chevrolet        aveo                  chevrolet aveo lt 1.4 mt      4
+chevrolet        aveo                  chevrolet aveo lt 1.5 mt     11
+chevrolet        aveo                 chevrolet aveo ltz 1.4 at      6
+chevrolet        aveo                 chevrolet aveo ltz 1.5 at      5
+chevrolet      camaro             chevrolet camaro rs 2.8 v6 mt      1
+chevrolet      camaro                chevrolet camaro rs 3.6 v6      2
+chevrolet      camaro chevrolet camaro rs convertible 2.0 turbo      1
+chevrolet     captiva               chevrolet captiva ls 2.4 mt      1
+chevrolet     captiva               chevrolet captiva lt 2.0 mt      1
+chevrolet     captiva               chevrolet captiva lt 2.4 mt     14
+chevrolet     captiva          chevrolet captiva lt maxx 2.4 mt      3
+chevrolet     captiva              chevrolet captiva ltz 2.0 at      1
+chevrolet     captiva              chevrolet captiva ltz 2.4 at     18
+chevrolet     captiva         chevrolet captiva ltz maxx 2.4 at      5
+chevrolet     captiva         chevrolet captiva revv ltz 2.4 at      2
+chevrolet    colorado     chevrolet colorado centennial 2.8l at      1
+chevrolet    colorado   chevrolet colorado high country 2.5l at     10
+chevrolet    colorado   chevrolet colorado high country 2.8l at      7
+chevrolet    colorado             chevrolet colorado lt 2.5l at      7
+chevrolet    colorado             chevrolet colorado lt 2.5l mt      5
+chevrolet    colorado            chevrolet colorado ltz 2.5l at      8
+chevrolet    colorado            chevrolet colorado ltz 2.8l at     15
+chevrolet    colorado            chevrolet colorado ltz 2.8l mt      2
+chevrolet       cruze                 chevrolet cruze ls 1.6 mt      7
+chevrolet       cruze                 chevrolet cruze lt 1.6 mt      5
+chevrolet       cruze                   chevrolet cruze lt 1.6l      9
+chevrolet       cruze                chevrolet cruze ltz 1.8 at     15
+chevrolet       cruze                  chevrolet cruze ltz 1.8l      9
+chevrolet     lacetti                     chevrolet lacetti 1.6     10
+chevrolet     orlando                  chevrolet orlando lt 1.8      1
+chevrolet     orlando               chevrolet orlando lt 1.8 mt      1
+chevrolet     orlando                 chevrolet orlando ltz 1.8      3
+chevrolet     orlando              chevrolet orlando ltz 1.8 at      3
+chevrolet       spark            chevrolet spark duo van 1.2 mt     13
+chevrolet       spark           chevrolet spark lite van 0.8 mt     13
+chevrolet       spark                 chevrolet spark ls 0.8 mt      3
+chevrolet       spark                 chevrolet spark ls 1.0 mt      2
+chevrolet       spark                 chevrolet spark ls 1.2 mt     11
+chevrolet       spark                 chevrolet spark lt 0.8 mt      8
+chevrolet       spark                 chevrolet spark lt 1.0 mt      3
+chevrolet       spark           chevrolet spark lt 1.0 mt super      1
+chevrolet       spark                 chevrolet spark lt 1.2 mt      9
+chevrolet       spark                chevrolet spark ltz 1.0 at      2
+chevrolet       spark           chevrolet spark ltz 1.0 at zest      6
+chevrolet       spark                chevrolet spark van 0.8 mt      4
+chevrolet       spark                chevrolet spark van 1.0 at      6
+chevrolet trailblazer          chevrolet trailblazer lt 2.5l mt      5
+chevrolet trailblazer      chevrolet trailblazer lt 2.5l vgt at     10
+chevrolet trailblazer     chevrolet trailblazer ltz 2.5l vgt at     14
+chevrolet        trax                     chevrolet trax 1.4 lt      3
+chevrolet      vivant                   chevrolet vivant cdx at      3
+chevrolet      vivant                   chevrolet vivant cdx mt      4
+chevrolet      vivant                       chevrolet vivant se      1

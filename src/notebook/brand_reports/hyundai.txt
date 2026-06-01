@@ -1,0 +1,134 @@
+  brand        model                                         name  count
+hyundai       accent                        hyundai accent 1.4 at    127
+hyundai       accent                hyundai accent 1.4 at special     79
+hyundai       accent                       hyundai accent 1.4 ath     47
+hyundai       accent                        hyundai accent 1.4 mt     54
+hyundai       accent                   hyundai accent 1.4 mt base     22
+hyundai       accent                        hyundai accent 1.5 at     16
+hyundai       accent                        hyundai accent 1.5 mt      6
+hyundai       accent                hyundai accent premium 1.5 at      7
+hyundai       accent                hyundai accent special 1.5 at     11
+hyundai       avante                        hyundai avante 1.6 at     10
+hyundai       avante                        hyundai avante 1.6 mt      7
+hyundai        azera                         hyundai azera 3.3 at      1
+hyundai       county                          hyundai county 3.9l      1
+hyundai        creta                         hyundai creta 1.6 at      1
+hyundai        creta                    hyundai creta base 1.5 at     24
+hyundai        creta                 hyundai creta premium 1.5 at     31
+hyundai        creta                 hyundai creta special 1.5 at     41
+hyundai       custin                     hyundai custin base 1.5t     15
+hyundai       custin                  hyundai custin premium 1.5t      1
+hyundai       custin                  hyundai custin premium 2.0t     38
+hyundai       custin                  hyundai custin special 1.5t     14
+hyundai      elantra                       hyundai elantra 1.6 at     17
+hyundai      elantra                  hyundai elantra 1.6 at base      5
+hyundai      elantra               hyundai elantra 1.6 at special     24
+hyundai      elantra                       hyundai elantra 1.6 mt     14
+hyundai      elantra                       hyundai elantra 1.8 at      2
+hyundai      elantra                       hyundai elantra 2.0 at     22
+hyundai      elantra               hyundai elantra 2.0 at premium      6
+hyundai      elantra          hyundai elantra n line 1.6 turbo at      7
+hyundai      elantra                 hyundai elantra sport 1.6 at     19
+hyundai          eon                           hyundai eon 0.8 mt      2
+hyundai        equus                         hyundai equus vs 460      1
+hyundai     galloper                      hyundai galloper 2.5 at      1
+hyundai      genesis                       hyundai genesis 2.0 at      6
+hyundai      genesis                          hyundai genesis 3.3      1
+hyundai      genesis                       hyundai genesis 3.8 v6      1
+hyundai         getz                          hyundai getz 1.1 mt     11
+hyundai         getz                          hyundai getz 1.4 at      6
+hyundai         getz                          hyundai getz 1.4 mt      2
+hyundai grand starex                  hyundai grand starex 2.4 mt      5
+hyundai grand starex                  hyundai grand starex 2.5 mt     23
+hyundai grand starex        hyundai grand starex ambulance 2.5 mt      1
+hyundai grand starex        hyundai grand starex limousine 2.4 at      1
+hyundai grand starex              hyundai grand starex van 2.4 mt      5
+hyundai grand starex              hyundai grand starex van 2.5 at      6
+hyundai grand starex              hyundai grand starex van 2.5 mt     16
+hyundai           hd                                hyundai hd 65      1
+hyundai           hd                               hyundai hd 800      1
+hyundai          i10                           hyundai i10 1.1 at      1
+hyundai          i10                           hyundai i10 1.1 mt      3
+hyundai          i10                           hyundai i10 1.2 at     50
+hyundai          i10                      hyundai i10 1.2 at base      2
+hyundai          i10                           hyundai i10 1.2 mt      2
+hyundai          i10                      hyundai i10 1.2 mt base     12
+hyundai          i10                     hyundai i10 grand 1.0 at     14
+hyundai          i10                     hyundai i10 grand 1.0 mt     25
+hyundai          i10                hyundai i10 grand 1.0 mt base     31
+hyundai          i10                     hyundai i10 grand 1.2 at    109
+hyundai          i10                     hyundai i10 grand 1.2 mt     40
+hyundai          i10                hyundai i10 grand 1.2 mt base     51
+hyundai          i20                           hyundai i20 1.4 at     14
+hyundai          i20                    hyundai i20 active 1.4 at      7
+hyundai          i30                           hyundai i30 1.6 at      4
+hyundai          i30                        hyundai i30 cw 1.6 at     13
+hyundai         kona                       hyundai kona 1.6 turbo     21
+hyundai         kona                     hyundai kona base 2.0 at     29
+hyundai         kona                  hyundai kona special 2.0 at     57
+hyundai       libero                           hyundai libero 2.5      1
+hyundai       mighty              hyundai mighty 110sp canvas box      1
+hyundai     palisade       hyundai palisade prestige 2.2 at htrac     31
+hyundai       porter               hyundai porter h150 closed box      1
+hyundai      santafe                         hyundai santafe 2.0l      3
+hyundai      santafe                       hyundai santafe 2.2 mt      1
+hyundai      santafe                         hyundai santafe 2.2l     70
+hyundai      santafe                   hyundai santafe 2.2l htrac     14
+hyundai      santafe                         hyundai santafe 2.4l     34
+hyundai      santafe                   hyundai santafe 2.4l htrac     11
+hyundai      santafe                         hyundai santafe 2.7l      6
+hyundai      santafe                    hyundai santafe base 2.2l      8
+hyundai      santafe                    hyundai santafe base 2.5l     21
+hyundai      santafe    hyundai santafe calligraphy 2.5l htrac 6s      3
+hyundai      santafe hyundai santafe calligraphy 2.5l turbo htrac     11
+hyundai      santafe                     hyundai santafe clx 2.0l      1
+hyundai      santafe                     hyundai santafe clx 2.2l      1
+hyundai      santafe               hyundai santafe exclusive 2.5l      1
+hyundai      santafe                  hyundai santafe gold 2.0 at      8
+hyundai      santafe             hyundai santafe hybrid 1.6 htrac      5
+hyundai      santafe                     hyundai santafe mlx 2.0l      5
+hyundai      santafe                     hyundai santafe mlx 2.2l      5
+hyundai      santafe                     hyundai santafe mlx 2.4l      1
+hyundai      santafe           hyundai santafe premium 2.2l htrac    265
+hyundai      santafe           hyundai santafe premium 2.4l htrac     52
+hyundai      santafe           hyundai santafe premium 2.5l htrac    127
+hyundai      santafe          hyundai santafe prestige 2.5l htrac     15
+hyundai      santafe                          hyundai santafe slx     13
+hyundai      santafe                     hyundai santafe slx 2.0l      1
+hyundai      santafe           hyundai santafe special 2.2l htrac      4
+hyundai      santafe           hyundai santafe special 2.5l htrac      2
+hyundai       solati                        hyundai solati 2.5 mt      3
+hyundai       solati                   hyundai solati h350 2.5 mt      6
+hyundai       solati                     hyundai solati limousine      1
+hyundai       solati              hyundai solati limousine 2.5 mt     12
+hyundai       sonata                        hyundai sonata 2.0 at      8
+hyundai       sonata                           hyundai sonata y20      1
+hyundai       sonata                    hyundai sonata y20 2.0 at      1
+hyundai       starex                    hyundai starex van 2.5 mt      1
+hyundai    stargazer                hyundai stargazer base 1.5 at     14
+hyundai    stargazer             hyundai stargazer premium 1.5 at      2
+hyundai    stargazer             hyundai stargazer special 1.5 at     14
+hyundai    stargazer                   hyundai stargazer x 1.5 at     12
+hyundai    stargazer           hyundai stargazer x premium 1.5 at      9
+hyundai       trajet                   hyundai trajet 2.0 at crdi      1
+hyundai       tucson                  hyundai tucson 1.6 at turbo     34
+hyundai       tucson    hyundai tucson 1.6 at turbo htrac special     64
+hyundai       tucson          hyundai tucson 1.6 at turbo special     11
+hyundai       tucson                        hyundai tucson 2.0 at     25
+hyundai       tucson                   hyundai tucson 2.0 at base     13
+hyundai       tucson                   hyundai tucson 2.0 at crdi     34
+hyundai       tucson           hyundai tucson 2.0 at crdi special     35
+hyundai       tucson                hyundai tucson 2.0 at special     38
+hyundai       tucson                       hyundai tucson 2.0 ath     68
+hyundai       tucson                  hyundai tucson lmx 2.0 evgt      2
+hyundai       tucson     hyundai tucson n line 1.6 at turbo htrac      3
+hyundai     veloster                      hyundai veloster 1.6 at      3
+hyundai     veloster                  hyundai veloster 1.6 at gdi      1
+hyundai        venue                      hyundai venue 1.0 t gdi      4
+hyundai        venue              hyundai venue 1.0 t gdi special     11
+hyundai     veracruz                      hyundai veracruz 3.0 v6      3
+hyundai     veracruz                      hyundai veracruz 3.8 v6      2
+hyundai        verna                         hyundai verna 1.4 at      2
+hyundai        verna                         hyundai verna 1.4 mt      1
+hyundai        verna                         hyundai verna 1.5 mt      1
+hyundai           xg                               hyundai xg 300      1

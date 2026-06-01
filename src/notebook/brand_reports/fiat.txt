@@ -1,0 +1,6 @@
+brand model               name  count
+ fiat   500    fiat 500 0.9 at      1
+ fiat   500    fiat 500 1.3 at      2
+ fiat doblo     fiat doblo 1.6      1
+ fiat siena  fiat siena ed 1.3      1
+ fiat siena fiat siena hlx 1.6      1

@@ -1,0 +1,289 @@
+===== TRAIN =====
+Rows: 17873
+Columns: 23
+
+[Target]
+count    17873.000000
+mean        20.336336
+std          0.896996
+min         16.648724
+25%         19.794396
+50%         20.210772
+75%         20.814020
+max         24.912921
+Name: price_log, dtype: float64
+
+[brand]
+Unique: 66
+Top 20:
+brand
+toyota           2673
+mercedes benz    2071
+hyundai          1923
+ford             1847
+kia              1718
+mazda            1260
+vinfast           964
+mitsubishi        794
+lexus             718
+honda             646
+bmw               469
+porsche           380
+landrover         266
+peugeot           261
+chevrolet         254
+suzuki            222
+mg                220
+nissan            209
+audi              205
+volkswagen        142
+Name: count, dtype: int64
+
+[model]
+Unique: 427
+Top 20:
+model
+ranger      766
+santafe     549
+glc         512
+c class     488
+everest     476
+3           475
+cx5         437
+vios        391
+s class     381
+fortuner    376
+camry       338
+xpander     337
+morning     337
+carnival    302
+accent      295
+innova      287
+e class     270
+i10         270
+crv         269
+tucson      262
+Name: count, dtype: int64
+
+[year]
+Unique: 38
+Top 20:
+year
+2022    2369
+2021    1842
+2023    1789
+2024    1647
+2019    1496
+2020    1413
+2018    1158
+2025    1015
+2016     946
+2017     849
+2015     701
+2014     498
+2009     331
+2010     311
+2011     292
+2013     264
+2008     224
+2012     173
+2007     163
+2006      74
+Name: count, dtype: int64
+
+[Missing values]
+No missing values
+
+
+===== VAL =====
+Rows: 2234
+Columns: 23
+
+[Target]
+count    2234.000000
+mean       20.345138
+std         0.907635
+min        17.034386
+25%        19.794396
+50%        20.237133
+75%        20.836595
+max        23.814308
+Name: price_log, dtype: float64
+
+[brand]
+Unique: 43
+Top 20:
+brand
+toyota           330
+mercedes benz    257
+hyundai          238
+ford             228
+kia              211
+mazda            157
+vinfast          118
+mitsubishi       101
+lexus             89
+honda             82
+bmw               63
+porsche           49
+peugeot           35
+landrover         35
+chevrolet         31
+nissan            30
+suzuki            28
+audi              27
+mg                26
+volkswagen        20
+Name: count, dtype: int64
+
+[model]
+Unique: 273
+Top 20:
+model
+ranger      95
+santafe     68
+c class     63
+glc         62
+everest     57
+3           56
+cx5         53
+s class     49
+vios        48
+fortuner    45
+morning     44
+camry       41
+xpander     41
+innova      36
+carnival    36
+i10         35
+accent      34
+tucson      33
+crv         33
+rx          32
+Name: count, dtype: int64
+
+[year]
+Unique: 31
+Top 20:
+year
+2022    300
+2021    242
+2024    220
+2023    219
+2020    173
+2018    161
+2019    156
+2016    118
+2025    115
+2017    115
+2015     81
+2014     76
+2009     39
+2013     38
+2010     38
+2011     29
+2008     28
+2012     19
+2007     16
+2006     11
+Name: count, dtype: int64
+
+[Missing values]
+No missing values
+
+
+===== TEST =====
+Rows: 2235
+Columns: 23
+
+[Target]
+count    2235.000000
+mean       20.329904
+std         0.880001
+min        16.811243
+25%        19.804472
+50%        20.220739
+75%        20.799301
+max        23.165613
+Name: price_log, dtype: float64
+
+[brand]
+Unique: 46
+Top 20:
+brand
+toyota           337
+mercedes benz    259
+hyundai          246
+ford             233
+kia              216
+mazda            163
+vinfast          124
+mitsubishi        97
+lexus             89
+honda             82
+bmw               56
+porsche           47
+landrover         32
+chevrolet         31
+mg                29
+suzuki            28
+peugeot           28
+audi              24
+nissan            23
+volvo             15
+Name: count, dtype: int64
+
+[model]
+Unique: 268
+Top 20:
+model
+ranger      98
+santafe     71
+glc         68
+3           62
+c class     62
+everest     61
+cx5         57
+fortuner    51
+vios        50
+xpander     46
+s class     46
+morning     43
+camry       40
+accent      40
+carnival    37
+crv         37
+innova      35
+i10         35
+vf8         34
+e class     34
+Name: count, dtype: int64
+
+[year]
+Unique: 30
+Top 20:
+year
+2022    295
+2023    230
+2024    219
+2021    218
+2019    197
+2020    191
+2018    133
+2025    125
+2016    124
+2017    103
+2015     90
+2014     51
+2010     38
+2009     37
+2011     36
+2013     36
+2008     30
+2007     24
+2012     21
+2004     12
+Name: count, dtype: int64
+
+[Missing values]
+No missing values

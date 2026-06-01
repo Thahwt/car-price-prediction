@@ -1,0 +1,32 @@
+     brand      model                                       name  count
+volkswagen     beetle                   volkswagen beetle 2.0 at      1
+volkswagen       golf             volkswagen golf 1.5 etsi style      1
+volkswagen       golf    volkswagen golf 2.0 tsi gti performance      1
+volkswagen      jetta                    volkswagen jetta 1.4 at      1
+volkswagen new beetle               volkswagen new beetle 1.6 at      3
+volkswagen new beetle            volkswagen new beetle 1.8 turbo      1
+volkswagen new beetle               volkswagen new beetle 2.0 at      1
+volkswagen new beetle               volkswagen new beetle 2.5 at      5
+volkswagen     passat           volkswagen passat 1.8 bluemotion      7
+volkswagen     passat                  volkswagen passat 1.8 tsi      1
+volkswagen     passat                volkswagen passat cc 2.0 at      3
+volkswagen       polo                     volkswagen polo 1.6 at      6
+volkswagen     routan                volkswagen routan se 3.8 at      1
+volkswagen   scirocco                 volkswagen scirocco 1.4 at      5
+volkswagen    t-cross         volkswagen t cross elegance 1.0 at      5
+volkswagen    t-cross           volkswagen t cross luxury 1.0 at      5
+volkswagen   teramont                 volkswagen teramont 2.0 at     12
+volkswagen   teramont volkswagen teramont limited edition 2.0 at      2
+volkswagen   teramont       volkswagen teramont president 2.0 at      3
+volkswagen teramont x        volkswagen teramont x luxury 2.0 at      1
+volkswagen teramont x      volkswagen teramont x platinum 2.0 at      4
+volkswagen     tiguan                   volkswagen tiguan 2.0 at      9
+volkswagen     tiguan                 volkswagen tiguan allspace     17
+volkswagen     tiguan          volkswagen tiguan allspace luxury      1
+volkswagen     tiguan        volkswagen tiguan allspace luxury s      4
+volkswagen     tiguan                 volkswagen tiguan luxury s      1
+volkswagen    touareg                  volkswagen touareg 3.6 at      1
+volkswagen    touareg               volkswagen touareg gp 3.6 at      1
+volkswagen    touareg          volkswagen touareg luxury 2.0 tsi      6
+volkswagen    viloran                  volkswagen viloran luxury     61
+volkswagen    viloran                 volkswagen viloran premium      7

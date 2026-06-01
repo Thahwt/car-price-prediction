@@ -1,0 +1,2 @@
+brand model                       name  count
+omoda    c5 omoda c5 premium 1.5 turbo      1

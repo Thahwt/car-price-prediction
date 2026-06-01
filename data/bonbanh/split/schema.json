@@ -1,0 +1,37 @@
+{
+    "target":"price_log",
+    "categorical_features":[
+        "brand",
+        "model",
+        "status",
+        "origin",
+        "style",
+        "transmission",
+        "engine",
+        "exterior_color",
+        "interior_color",
+        "drive"
+    ],
+    "numerical_features":[
+        "year",
+        "volume",
+        "seats",
+        "doors",
+        "odo",
+        "province",
+        "lat",
+        "lon"
+    ],
+    "drop_features":[
+        "url",
+        "date",
+        "price_log"
+    ],
+    "split_logic":[
+        "Stratify by brand",
+        "Stratify by model inside brand",
+        "Stratify by target price quantile bins",
+        "Stratify by year quantile bins",
+        "Rare groups are collapsed into OTHER"
+    ]
+}

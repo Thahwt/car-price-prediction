@@ -1,0 +1,3 @@
+brand   model                             name  count
+  gaz gazelle gaz gazelle elle next van 2.8 mt      2
+  gaz gazelle   gaz gazelle elle nn van 2.5 mt      1

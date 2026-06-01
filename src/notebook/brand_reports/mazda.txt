@@ -1,0 +1,81 @@
+brand model                                       name  count
+mazda     2                             mazda 2 1.5 at     44
+mazda     2                             mazda 2 deluxe      2
+mazda     2                             mazda 2 luxury     21
+mazda     2                            mazda 2 premium     12
+mazda     2                                  mazda 2 s      5
+mazda     2                       mazda 2 sport luxury     13
+mazda     2                      mazda 2 sport premium      3
+mazda     3                             mazda 3 1.5 at    141
+mazda     3                        mazda 3 1.5l deluxe     46
+mazda     3                        mazda 3 1.5l luxury    248
+mazda     3                       mazda 3 1.5l premium     23
+mazda     3                  mazda 3 1.5l sport deluxe      3
+mazda     3                  mazda 3 1.5l sport luxury     39
+mazda     3                 mazda 3 1.5l sport premium     23
+mazda     3                             mazda 3 1.6 at     14
+mazda     3                             mazda 3 1.6 mt      1
+mazda     3                             mazda 3 2.0 at     20
+mazda     3                       mazda 3 2.0l premium      1
+mazda     3             mazda 3 2.0l signature premium      2
+mazda     3        mazda 3 2.0l sport signature luxury      4
+mazda     3       mazda 3 2.0l sport signature premium      2
+mazda     3                             mazda 3 luxury      6
+mazda     3                           mazda 3 s 1.6 at     15
+mazda     3                           mazda 3 s 1.6 mt      1
+mazda     3                           mazda 3 s 2.0 at      2
+mazda     3                       mazda 3 sport luxury      1
+mazda   323                           mazda 323 1.6 mt      2
+mazda   323                      mazda 323 classic glx      2
+mazda   323                      mazda 323 glxi 1.6 mt      1
+mazda   323                  mazda 323 standard 1.6 mt      1
+mazda     6                             mazda 6 2.0 at     17
+mazda     6                             mazda 6 2.0 mt      6
+mazda     6                             mazda 6 2.5 at     10
+mazda     6                      mazda 6 deluxe 2.0 at      4
+mazda     6                      mazda 6 luxury 2.0 at      9
+mazda     6                     mazda 6 premium 2.0 at     31
+mazda     6                     mazda 6 premium 2.5 at      4
+mazda     6           mazda 6 signature premium 2.5 at      4
+mazda   626                           mazda 626 2.0 mt      9
+mazda  bt50                         mazda bt50 1.9l at      3
+mazda  bt50                         mazda bt50 1.9l mt      2
+mazda  bt50                         mazda bt50 2.2l at     35
+mazda  bt50                        mazda bt50 2.2l ath      5
+mazda  bt50                         mazda bt50 2.2l mt     17
+mazda  bt50                         mazda bt50 3.2l at     13
+mazda  bt50                  mazda bt50 luxury 1.9l at      1
+mazda  bt50                  mazda bt50 luxury 2.2l at      5
+mazda  bt50                 mazda bt50 premium 3.2l at      1
+mazda  bt50                mazda bt50 standard 2.2l mt      4
+mazda cx 30                  mazda cx 30 luxury 2.0 at     14
+mazda cx 30                 mazda cx 30 premium 2.0 at     17
+mazda   cx3                           mazda cx3 1.5 at      1
+mazda   cx3                    mazda cx3 deluxe 1.5 at      5
+mazda   cx3                    mazda cx3 luxury 1.5 at     27
+mazda   cx3                   mazda cx3 premium 1.5 at     10
+mazda   cx5                           mazda cx5 2.0 at     78
+mazda   cx5                       mazda cx5 2.0 deluxe     17
+mazda   cx5                       mazda cx5 2.0 luxury     29
+mazda   cx5                      mazda cx5 2.0 premium     32
+mazda   cx5                           mazda cx5 2.5 at     95
+mazda   cx5                       mazda cx5 2.5 luxury      1
+mazda   cx5            mazda cx5 2.5 signature premium     16
+mazda   cx5    mazda cx5 2.5 signature premium i activ      4
+mazda   cx5                    mazda cx5 deluxe 2.0 at     35
+mazda   cx5                    mazda cx5 luxury 2.0 at     57
+mazda   cx5                   mazda cx5 premium 2.0 at    114
+mazda   cx5         mazda cx5 premium exclusive 2.0 at     27
+mazda   cx5             mazda cx5 premium sport 2.0 at     32
+mazda   cx5       mazda cx5 signature exclusive 2.5 at      6
+mazda   cx5         mazda cx5 signature premium 2.5 at      2
+mazda   cx5 mazda cx5 signature premium 2.5 at i activ      1
+mazda   cx5           mazda cx5 signature sport 2.5 at      1
+mazda   cx8                           mazda cx8 deluxe      7
+mazda   cx8                           mazda cx8 luxury     15
+mazda   cx8                    mazda cx8 luxury 2.5 at      5
+mazda   cx8                          mazda cx8 premium     39
+mazda   cx8                   mazda cx8 premium 2.5 at      9
+mazda   cx8                       mazda cx8 premium 6s      4
+mazda   cx8                 mazda cx8 signature 2.5 at      1
+mazda   cx9                           mazda cx9 3.7 at      1

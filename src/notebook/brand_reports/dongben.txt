@@ -1,0 +1,7 @@
+  brand   model                       name  count
+dongben  db x30         dongben db x30 v2s      2
+dongben  db x30         dongben db x30 v5s      2
+dongben srm 868         dongben srm 868 v2      2
+dongben srm t30 dongben srm t30 closed box      2
+dongben srm x30        dongben srm x30 v2s      3
+dongben srm x30        dongben srm x30 v5s      1

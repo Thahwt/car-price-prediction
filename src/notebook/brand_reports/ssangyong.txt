@@ -1,0 +1,6 @@
+    brand   model                      name  count
+ssangyong korando ssangyong korando tx 5 mt      1
+ssangyong   kyron       ssangyong kyron lv7      1
+ssangyong   musso       ssangyong musso 2.3      1
+ssangyong  rexton   ssangyong rexton 2.7 at      1
+ssangyong  stavic   ssangyong stavic 2.7 mt      5

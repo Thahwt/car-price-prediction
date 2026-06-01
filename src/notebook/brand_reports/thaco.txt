@@ -1,0 +1,11 @@
+brand        model                            name  count
+thaco     frontier thaco frontier tf220 closed box      1
+thaco     frontier thaco frontier tf220 thùng lửng      1
+thaco frontier van    thaco frontier van tf420v 2s      1
+thaco frontier van    thaco frontier van tf450v 2s      1
+thaco frontier van    thaco frontier van tf480v 2s      1
+thaco frontier van    thaco frontier van tf480v 5s      2
+thaco        ollin                 thaco ollin 350      1
+thaco       towner                thaco towner 800      4
+thaco       towner     thaco towner 990 closed box      1
+thaco   towner van      thaco towner van tf450v 2s      1

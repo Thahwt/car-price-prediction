@@ -1,0 +1,25 @@
+ brand   model                       name  count
+daewoo  gentra     daewoo gentra s 1.5 mt      1
+daewoo  gentra    daewoo gentra sx 1.5 mt     11
+daewoo gentrax   daewoo gentrax sx 1.2 at      1
+daewoo lacetti  daewoo lacetti cdx 1.6 at      7
+daewoo lacetti  daewoo lacetti cdx 1.8 at      2
+daewoo lacetti          daewoo lacetti ex      9
+daewoo lacetti   daewoo lacetti ex 1.6 mt      3
+daewoo lacetti  daewoo lacetti max 1.8 mt      3
+daewoo lacetti          daewoo lacetti se      3
+daewoo   lanos        daewoo lanos 1.5 mt      2
+daewoo  magnus       daewoo magnus 2.5 at      1
+daewoo   matiz        daewoo matiz 0.8 mt      2
+daewoo   matiz   daewoo matiz city 0.8 at      1
+daewoo   matiz daewoo matiz groove 1.0 at      3
+daewoo   matiz   daewoo matiz jazz 1.0 at      1
+daewoo   matiz    daewoo matiz joy 0.8 at      1
+daewoo   matiz      daewoo matiz s 0.8 mt      3
+daewoo   matiz     daewoo matiz se 0.8 at      2
+daewoo   matiz     daewoo matiz se 0.8 mt      9
+daewoo   matiz  daewoo matiz super 0.8 at      1
+daewoo   matiz  daewoo matiz super 0.8 mt      1
+daewoo   matiz     daewoo matiz sx 0.8 mt      1
+daewoo  nubira       daewoo nubira ii 1.6      4
+daewoo  nubira       daewoo nubira ii 2.0      1

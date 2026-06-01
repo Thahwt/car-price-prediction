@@ -1,0 +1,62 @@
+ brand        model                                  name  count
+nissan       almera                  nissan almera 1.0 mt      2
+nissan       almera              nissan almera el 1.0 cvt      7
+nissan       almera               nissan almera v 1.0 cvt      3
+nissan       almera      nissan almera vl 1.0 cvt premium     11
+nissan       cefiro                  nissan cefiro 3.0 mt      1
+nissan grand livina            nissan grand livina 1.8 at      2
+nissan grand livina            nissan grand livina 1.8 mt      1
+nissan         juke                    nissan juke 1.6 at      2
+nissan        kicks                nissan kicks e power v     19
+nissan       livina                  nissan livina 1.6 at      1
+nissan       maxima                  nissan maxima 3.5 at      1
+nissan       murano                  nissan murano sl 3.5      1
+nissan       navara nissan navara black edition vl 2.5 at      1
+nissan       navara               nissan navara el 2.3 at     10
+nissan       navara               nissan navara el 2.5 at     22
+nissan       navara                nissan navara el 2.5at      7
+nissan       navara         nissan navara el a ivi 2.5 at      7
+nissan       navara            nissan navara el premium r      8
+nissan       navara            nissan navara el premium z      6
+nissan       navara                nissan navara le 2.5mt      6
+nissan       navara              nissan navara pro 2.3 at      4
+nissan       navara              nissan navara pro 2.5 at      2
+nissan       navara               nissan navara sl 2.5 mt      1
+nissan       navara               nissan navara ve 2.5 at      1
+nissan       navara       nissan navara vl 2.3 at premium      5
+nissan       navara               nissan navara vl 2.5 at     13
+nissan       navara            nissan navara vl premium r      4
+nissan       navara                nissan navara xe 2.5at      4
+nissan       patrol                  nissan patrol 4.2 mt      1
+nissan         pixo                    nissan pixo 1.0 at      1
+nissan      qashqai                     nissan qashqai le      3
+nissan        quest                nissan quest sl 3.5 v6      1
+nissan        sunny                   nissan sunny 1.4 mt      1
+nissan        sunny                    nissan sunny 1.5mt      1
+nissan        sunny      nissan sunny q series xt premium      1
+nissan        sunny      nissan sunny q series xv premium      1
+nissan        sunny                       nissan sunny xl      8
+nissan        sunny               nissan sunny xt premium      1
+nissan        sunny                       nissan sunny xv      4
+nissan        sunny               nissan sunny xv premium      5
+nissan        sunny             nissan sunny xv premium s      6
+nissan        teana                   nissan teana 2.0 at      9
+nissan        teana                   nissan teana 2.5 sl      1
+nissan        teana                   nissan teana 3.5 sl      2
+nissan        teana               nissan teana 3.5l 350xv      1
+nissan        terra                 nissan terra e 2.5 at      8
+nissan        terra                 nissan terra s 2.5 mt      7
+nissan        terra                 nissan terra v 2.5 at      7
+nissan      terrano              nissan terrano ii 2.7 mt      3
+nissan        tiida                   nissan tiida 1.6 at      3
+nissan        urvan            nissan urvan nv350 2.5d mt      1
+nissan      x trail            nissan x trail 2.0 premium      1
+nissan      x trail                 nissan x trail 2.0 sl      2
+nissan      x trail          nissan x trail 2.0 sl luxury      1
+nissan      x trail         nissan x trail 2.0 sl premium      7
+nissan      x trail                 nissan x trail 2.5 at      2
+nissan      x trail                 nissan x trail 2.5 sv      6
+nissan      x trail          nissan x trail 2.5 sv luxury      4
+nissan      x trail         nissan x trail 2.5 sv premium      9
+nissan      x trail              nissan x trail sv 2.5 at      1
+nissan      x trail nissan x trail v series 2.5 sv luxury      1
