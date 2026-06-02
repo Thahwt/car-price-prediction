@@ -141,7 +141,10 @@ def noisy_inconsistent_logic(df):
             df_out[col] = df_out[col].astype(str).str.lower().str.strip()
 
     # Lọc các thông số vật lý phi logic (odo, seat, door)
-    df_out = df_out[df_out['odo'] <= 1000000]
+    df_out = df_out[
+        df_out['odo'].isna()
+        | (df_out['odo'] <= 1000000)
+        ]
     df_out = df_out[(df_out['seats'] > 0) & (df_out['doors'] > 0) & (df_out['seats'] <= 16)]
 
     return df_out
