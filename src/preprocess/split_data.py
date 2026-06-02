@@ -1,4 +1,3 @@
-# split_data.py
 import argparse
 from pathlib import Path
 
@@ -19,7 +18,7 @@ def parse_args():
 
     parser.add_argument("--target", type=str, default="price_log")
     parser.add_argument("--price_bins", type=int, default=5)
-    parser.add_argument("--year_bins", type=int, default=5)
+    parser.add_argument("--age_bins", type=int, default=5)  # CẬP NHẬT: Thay year_bins bằng age_bins
     parser.add_argument("--min_stratum_count", type=int, default=10)
 
     return parser.parse_args()
@@ -45,23 +44,23 @@ def build_stratify_column(df, args):
     brand = cap_rare_values(df["brand"].astype(str), args.min_stratum_count)
 
     model_key = (
-        df["brand"].astype(str)
-        + "__"
-        + df["model"].astype(str)
+            df["brand"].astype(str)
+            + "__"
+            + df["model"].astype(str)
     )
     model = cap_rare_values(model_key, args.min_stratum_count)
 
     price_bin = make_bins(df[args.target], args.price_bins)
-    year_bin = make_bins(df["year"], args.year_bins)
+    age_bin = make_bins(df["age"], args.age_bins)  # CẬP NHẬT: Dùng cột age
 
     stratify_col = (
-        brand
-        + "|"
-        + model
-        + "|"
-        + price_bin
-        + "|"
-        + year_bin
+            brand
+            + "|"
+            + model
+            + "|"
+            + price_bin
+            + "|"
+            + age_bin  # CẬP NHẬT: Ghép tuổi vào chuỗi stratify
     )
 
     counts = stratify_col.value_counts()
@@ -69,7 +68,7 @@ def build_stratify_column(df, args):
 
     stratify_col = stratify_col.where(
         ~stratify_col.isin(rare_strata),
-        brand + "|OTHER_MODEL|" + price_bin + "|" + year_bin
+        brand + "|OTHER_MODEL|" + price_bin + "|" + age_bin  # CẬP NHẬT: Fallback với age_bin
     )
 
     counts = stratify_col.value_counts()
@@ -112,6 +111,7 @@ def split_data(df, stratify_col, args):
 
     return train_df, val_df, test_df
 
+
 def summarize_split(df, name, target):
     lines = []
 
@@ -124,7 +124,8 @@ def summarize_split(df, name, target):
     lines.append(str(df[target].describe()))
     lines.append("")
 
-    for col in ["brand", "model", "year"]:
+    # Thay "year" bằng "age" trong vòng lặp tóm tắt
+    for col in ["brand", "model", "age"]:
         if col in df.columns:
             lines.append(f"[{col}]")
             lines.append(f"Unique: {df[col].nunique()}")
@@ -151,6 +152,7 @@ def save_split_summary(train_df, val_df, test_df, out_dir, target):
     with open(out_dir / "split_summary.txt", "w", encoding="utf-8") as f:
         f.write("\n\n".join(content))
 
+
 def save_schema(df, out_dir, args):
     schema = {
         "target": args.target,
@@ -164,7 +166,7 @@ def save_schema(df, out_dir, args):
         ],
         "numerical_features": [
             col for col in [
-                "year", "volume", "seats", "doors", "odo",
+                "age", "volume", "seats", "doors", "odo",  # CẬP NHẬT: Thay year bằng age
                 "province", "lat", "lon"
             ]
             if col in df.columns
@@ -177,7 +179,7 @@ def save_schema(df, out_dir, args):
             "Stratify by brand",
             "Stratify by model inside brand",
             "Stratify by target price quantile bins",
-            "Stratify by year quantile bins",
+            "Stratify by age quantile bins",  # CẬP NHẬT: Sửa nội dung log
             "Rare groups are collapsed into OTHER"
         ]
     }
@@ -199,7 +201,8 @@ def main():
 
     df = pd.read_csv(input_path)
 
-    required_cols = ["brand", "model", "year", args.target]
+    # Yêu cầu có cột "age" thay vì "year"
+    required_cols = ["brand", "model", "age", args.target]
     missing_cols = [col for col in required_cols if col not in df.columns]
 
     if missing_cols:
@@ -215,7 +218,7 @@ def main():
 
     save_schema(df, out_dir, args)
     save_split_summary(train_df, val_df, test_df, out_dir, args.target)
-    
+
     print("Done.")
     print(f"Train: {len(train_df)}")
     print(f"Val:   {len(val_df)}")

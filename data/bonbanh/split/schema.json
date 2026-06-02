@@ -13,14 +13,10 @@
         "drive"
     ],
     "numerical_features":[
-        "year",
+        "age",
         "volume",
-        "seats",
         "doors",
-        "odo",
-        "province",
-        "lat",
-        "lon"
+        "province"
     ],
     "drop_features":[
         "url",
@@ -31,7 +27,7 @@
         "Stratify by brand",
         "Stratify by model inside brand",
         "Stratify by target price quantile bins",
-        "Stratify by year quantile bins",
+        "Stratify by age quantile bins",
         "Rare groups are collapsed into OTHER"
     ]
 }

@@ -23,62 +23,48 @@ def impute_missing_odo(df):
         (df_out["status"] == "new") & (df_out["odo"].isnull()),
         "odo"
     ] = 0
-    df_out["odo"] = df_out.groupby(
-        ["brand", "model", "year"]
-    )["odo"].transform(
-        lambda x: x.fillna(x.median())
-    )
     return df_out
+
+import pandas as pd
 
 def handle_volume(df):
     """
-    Hàm xử lý điền khuyết (impute) cho cột 'volume' dựa trên các đặc trưng liên quan.
+    Xử lý missing cho cột volume bằng Hierarchical Median Imputation.
+    Thứ tự:
+    1. Median theo (brand, model)
+    2. Median theo brand
+    3. Median theo style
+    4. Global median
     """
     df_out = df.copy()
 
-    # Kiểm tra xem có bao nhiêu null trước khi xử lý
-    null_before = df_out['volume'].isnull().sum()
-    print(f"Số lượng null ban đầu ở cột volume: {null_before}")
+    print(f"Missing ban đầu: {df_out['volume'].isna().sum()}")
 
-    # LỚP 1: Điền theo trung vị của nhóm (brand, model)
-    # Ví dụ: Mất volume của xe Toyota Vios -> lấy trung vị volume của các xe Toyota Vios khác
-    df_out['volume'] = df_out.groupby(['brand', 'model'])['volume'].transform(
-        lambda x: x.fillna(x.median())
+    # Layer 1: brand + model
+    df_out['volume'] = (
+        df_out.groupby(['brand', 'model'])['volume']
+        .transform(lambda x: x.fillna(x.median()))
     )
 
-    # LỚP 2: Điền theo trung vị của 'style'
-    # Phòng trường hợp một model xe nào đó bị thiếu volume ở TẤT CẢ các dòng
-    df_out['volume'] = df_out.groupby('style')['volume'].transform(
-        lambda x: x.fillna(x.median())
+    # Layer 2: brand
+    df_out['volume'] = (
+        df_out.groupby('brand')['volume']
+        .transform(lambda x: x.fillna(x.median()))
     )
 
-    # LỚP 3: Điền bằng trung vị của toàn bộ cột volume
-    # Dành cho trường hợp cực hiếm khi toàn bộ xe trong một 'style' đều bị thiếu volume
+    # Layer 3: style
+    df_out['volume'] = (
+        df_out.groupby('style')['volume']
+        .transform(lambda x: x.fillna(x.median()))
+    )
+
+    # Layer 4: Global median
     global_median = df_out['volume'].median()
-    df_out['volume'] = df_out['volume'].fillna(global_median)
 
-    # Kiểm tra lại số lượng null sau xử lý
-    null_after = df_out['volume'].isnull().sum()
-    print(f"Số lượng null sau khi xử lý: {null_after}")
-
-    return df_out
-
-def handle_price_outliers(df, column='price', apply_log=True):
-    """
-    Hàm này dùng để xử lý các outliers của biến price (VD: các xe trị giá cao như 66 tỷ...)
-    Phát hiện bằng IQR và biến đổi Logarit.
-    """
-    df_out = df.copy()
-
-    Q1 = df_out[column].quantile(0.25)
-    Q3 = df_out[column].quantile(0.75)
-    IQR = Q3 - Q1
-    lower_bound = Q1 - 1.5 * IQR
-    upper_bound = Q3 + 1.5 * IQR
-
-    #Giữ lại outliers và biến đổi logarit
-    if apply_log:
-        df_out[f'{column}_log'] = np.log1p(df_out[column])
+    df_out['volume'] = df_out['volume'].fillna(
+        global_median
+    )
+    print(f"Missing còn lại: {df_out['volume'].isna().sum()}")
     return df_out
 
 def handle_trim_advanced(df):

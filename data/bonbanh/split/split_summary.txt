@@ -1,94 +1,94 @@
 ===== TRAIN =====
 Rows: 17873
-Columns: 23
+Columns: 22
 
 [Target]
 count    17873.000000
-mean        20.336336
-std          0.896996
-min         16.648724
+mean        20.335497
+std          0.895933
+min         16.705882
 25%         19.794396
 50%         20.210772
-75%         20.814020
-max         24.912921
+75%         20.817667
+max         24.334157
 Name: price_log, dtype: float64
 
 [brand]
-Unique: 66
+Unique: 67
 Top 20:
 brand
-toyota           2673
-mercedes benz    2071
-hyundai          1923
-ford             1847
-kia              1718
-mazda            1260
-vinfast           964
-mitsubishi        794
-lexus             718
-honda             646
-bmw               469
-porsche           380
-landrover         266
-peugeot           261
+toyota           2670
+mercedes benz    2068
+hyundai          1926
+ford             1845
+kia              1714
+mazda            1265
+vinfast           963
+mitsubishi        793
+lexus             715
+honda             647
+bmw               473
+porsche           381
+landrover         265
+peugeot           259
 chevrolet         254
-suzuki            222
-mg                220
-nissan            209
-audi              205
+suzuki            224
+mg                218
+nissan            211
+audi              207
 volkswagen        142
 Name: count, dtype: int64
 
 [model]
-Unique: 427
+Unique: 428
 Top 20:
 model
 ranger      766
-santafe     549
+santafe     551
 glc         512
 c class     488
-everest     476
-3           475
-cx5         437
-vios        391
-s class     381
-fortuner    376
-camry       338
-xpander     337
-morning     337
-carnival    302
+3           476
+everest     475
+cx5         438
+vios        389
+fortuner    379
+s class     379
+morning     340
+xpander     339
+camry       333
+carnival    300
 accent      295
 innova      287
-e class     270
-i10         270
+i10         271
 crv         269
-tucson      262
+e class     269
+tucson      260
 Name: count, dtype: int64
 
-[year]
+[age]
 Unique: 38
 Top 20:
-year
-2022    2369
-2021    1842
-2023    1789
-2024    1647
-2019    1496
-2020    1413
-2018    1158
-2025    1015
-2016     946
-2017     849
-2015     701
-2014     498
-2009     331
-2010     311
-2011     292
-2013     264
-2008     224
-2012     173
-2007     163
-2006      74
+age
+4     2367
+5     1845
+3     1786
+2     1660
+7     1476
+6     1422
+8     1168
+1     1012
+10     957
+9      842
+11     713
+12     495
+17     330
+16     308
+15     288
+13     257
+18     222
+14     181
+19     168
+20      71
 Name: count, dtype: int64
 
 [Missing values]
@@ -97,95 +97,95 @@ No missing values
 
 ===== VAL =====
 Rows: 2234
-Columns: 23
+Columns: 22
 
 [Target]
 count    2234.000000
-mean       20.345138
-std         0.907635
+mean       20.341273
+std         0.898157
 min        17.034386
-25%        19.794396
-50%        20.237133
-75%        20.836595
-max        23.814308
+25%        19.802590
+50%        20.216590
+75%        20.818349
+max        23.280493
 Name: price_log, dtype: float64
 
 [brand]
-Unique: 43
+Unique: 45
 Top 20:
 brand
-toyota           330
+toyota           325
 mercedes benz    257
-hyundai          238
-ford             228
-kia              211
-mazda            157
-vinfast          118
-mitsubishi       101
-lexus             89
-honda             82
-bmw               63
-porsche           49
-peugeot           35
+hyundai          240
+ford             230
+kia              214
+mazda            156
+vinfast          123
+mitsubishi       104
+lexus             91
+honda             81
+bmw               61
+porsche           47
 landrover         35
+peugeot           33
 chevrolet         31
-nissan            30
 suzuki            28
-audi              27
+nissan            28
 mg                26
-volkswagen        20
+audi              25
+volvo             20
 Name: count, dtype: int64
 
 [model]
-Unique: 273
+Unique: 262
 Top 20:
 model
-ranger      95
+ranger      92
 santafe     68
-c class     63
-glc         62
-everest     57
-3           56
-cx5         53
-s class     49
-vios        48
+glc         65
+c class     60
+3           59
+everest     58
+cx5         52
+vios        50
+s class     47
 fortuner    45
-morning     44
-camry       41
-xpander     41
-innova      36
-carnival    36
-i10         35
-accent      34
-tucson      33
+xpander     42
+camry       42
+morning     41
+carnival    37
+accent      36
+innova      34
 crv         33
-rx          32
+i10         33
+tucson      32
+vf8         32
 Name: count, dtype: int64
 
-[year]
+[age]
 Unique: 31
 Top 20:
-year
-2022    300
-2021    242
-2024    220
-2023    219
-2020    173
-2018    161
-2019    156
-2016    118
-2025    115
-2017    115
-2015     81
-2014     76
-2009     39
-2013     38
-2010     38
-2011     29
-2008     28
-2012     19
-2007     16
-2006     11
+age
+4     296
+2     224
+5     222
+3     211
+7     197
+6     169
+8     137
+1     122
+10    119
+9     117
+11     86
+12     71
+16     42
+13     42
+15     32
+18     31
+17     29
+14     15
+20     14
+19     13
 Name: count, dtype: int64
 
 [Missing values]
@@ -194,95 +194,95 @@ No missing values
 
 ===== TEST =====
 Rows: 2235
-Columns: 23
+Columns: 22
 
 [Target]
 count    2235.000000
-mean       20.329904
-std         0.880001
-min        16.811243
-25%        19.804472
-50%        20.220739
-75%        20.799301
-max        23.165613
+mean       20.340474
+std         0.898238
+min        16.648724
+25%        19.803217
+50%        20.212440
+75%        20.803917
+max        24.912921
 Name: price_log, dtype: float64
 
 [brand]
-Unique: 46
+Unique: 43
 Top 20:
 brand
-toyota           337
-mercedes benz    259
-hyundai          246
+toyota           345
+mercedes benz    262
+hyundai          241
 ford             233
-kia              216
-mazda            163
-vinfast          124
-mitsubishi        97
-lexus             89
+kia              217
+mazda            159
+vinfast          120
+mitsubishi        95
+lexus             90
 honda             82
-bmw               56
-porsche           47
-landrover         32
+bmw               54
+porsche           48
+landrover         33
+peugeot           32
 chevrolet         31
-mg                29
-suzuki            28
-peugeot           28
+mg                31
+suzuki            26
 audi              24
 nissan            23
-volvo             15
+volkswagen        17
 Name: count, dtype: int64
 
 [model]
-Unique: 268
+Unique: 273
 Top 20:
 model
-ranger      98
-santafe     71
-glc         68
-3           62
-c class     62
-everest     61
-cx5         57
-fortuner    51
-vios        50
-xpander     46
-s class     46
-morning     43
-camry       40
-accent      40
-carnival    37
-crv         37
-innova      35
-i10         35
-vf8         34
-e class     34
+ranger      101
+santafe      69
+glc          65
+c class      65
+everest      61
+3            58
+cx5          57
+vios         50
+s class      50
+fortuner     48
+camry        44
+xpander      43
+morning      43
+carnival     38
+accent       38
+crv          37
+innova       37
+i10          36
+e class      35
+tucson       35
 Name: count, dtype: int64
 
-[year]
-Unique: 30
+[age]
+Unique: 32
 Top 20:
-year
-2022    295
-2023    230
-2024    219
-2021    218
-2019    197
-2020    191
-2018    133
-2025    125
-2016    124
-2017    103
-2015     90
-2014     51
-2010     38
-2009     37
-2011     36
-2013     36
-2008     30
-2007     24
-2012     21
-2004     12
+age
+4     301
+3     241
+5     235
+2     202
+6     186
+7     176
+8     147
+1     121
+10    112
+9     108
+11     73
+12     59
+17     48
+13     39
+16     37
+15     37
+18     29
+19     22
+14     17
+22     11
 Name: count, dtype: int64
 
 [Missing values]
