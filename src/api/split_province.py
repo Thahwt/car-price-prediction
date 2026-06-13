@@ -2,7 +2,7 @@ import json
 import pandas as pd 
 from vietmap import UnifiedGeoCoder
 
-JSON_FILE=r"E:\car-price-prediction\data\provinces.json"
+JSON_FILE="../../data/provinces.json"
 
 with open(JSON_FILE, "rb") as f: 
     data = json.load(f)
@@ -21,5 +21,5 @@ for old, new in list(normalized_loc.items()):
     provinces_location.append({"province" : old, "lat" : lat, "lon" : lon})
 
 df = pd.DataFrame(provinces_location)
-df.to_csv("E:\car-price-prediction\data\provinces_coordinates.json")
+df.to_csv("../../data/provinces_coordinates.json")
 

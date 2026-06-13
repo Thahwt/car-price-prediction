@@ -13,7 +13,7 @@ load_dotenv()
 
 
 class UnifiedGeoCoder:
-    def __init__(self, log_path="E:/car-price-prediction/data/geo_log.json"):
+    def __init__(self, log_path="../../data/geo_log.json"):
 
         # =========================
         # API CONFIG
@@ -33,7 +33,7 @@ class UnifiedGeoCoder:
             "limit": 1
         }
 
-        self.province_data = self._load_province_csv(r"E:\car-price-prediction\data\provinces_coordinates.json")
+        self.province_data = self._load_province_csv("./../data/data/provinces_coordinates.json")
 
 
     def _preprocess(self, s):
